@@ -12,6 +12,7 @@
 * [使用sklearn集成学习-1](http://www.cnblogs.com/jasonfreak/p/5657196.html)
 * [使用sklearn集成学习-2](http://www.cnblogs.com/jasonfreak/p/5720137.html)
 * [CAML机器学习基础](http://www.52caml.com/home)
+* [梯度下降算法概览](http://sebastianruder.com/optimizing-gradient-descent/)
 
 ## 深度学习
 ### 框架/开源库/工具
@@ -23,6 +24,32 @@
 * [Paddle](https://github.com/gongqingyi-github/Paddle)
 * [Edward主页](http://edwardlib.org/zoo)
 * [Edward概率编程](https://github.com/gongqingyi-github/edward)
+
+### RL
+* [DRL-CS294](http://rll.berkeley.edu/deeprlcourse/#lecture-videos)
+* [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+* [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
+* [Reinforcement Learning:An Introduction](http://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html)
+* [Reinforcement learning and dynamic programming using function approximators](https://orbi.ulg.ac.be/bitstream/2268/27963/1/book-FA-RL-DP.pdf)
+* [解剖强化学习](https://github.com/gongqingyi-github/dissecting-reinforcement-learning)
+* [解剖强化学习-part1](https://mpatacchiola.github.io/blog/2016/12/09/dissecting-reinforcement-learning.html)
+* [解剖强化学习-part2](https://mpatacchiola.github.io/blog/2017/01/15/dissecting-reinforcement-learning-2.html)
+* [解剖强化学习-part3](https://mpatacchiola.github.io/blog/2017/01/29/dissecting-reinforcement-learning-3.html)
+* [Chainerrl-深度强化学习库](https://github.com/gongqingyi-github/chainerrl)
+* [强化学习知识整理-知乎专栏](https://zhuanlan.zhihu.com/p/25319023)
+* [RL相关文献-知乎专栏](https://zhuanlan.zhihu.com/p/25770890)
+* [强化学习视频教程-Morvan](http://study.163.com/u/2635988091#/center/lectorCenterCourse)
+* [RL-Algorithms](https://github.com/gongqingyi-github/reinforcement-learning)
+
+### GAN
+* [各种GAN汇总](https://github.com/gongqingyi-github/generative-models)
+* [GAN例子-tf](https://github.com/gongqingyi-github/tensorflow-101)
+* [How to train GAN](https://github.com/gongqingyi-github/ganhacks)
+* [AC-GAN](https://github.com/gongqingyi-github/ac-gan)
+* [DC-GAN](https://github.com/gongqingyi-github/DCGAN-tensorflow)
+* [W-GAN](https://github.com/gongqingyi-github/WassersteinGAN.tensorflow)
+* [GAN学习指南：从原理入门到制作生成Demo](https://zhuanlan.zhihu.com/p/24767059)
+* [GANs的基本原理、应用和走向](https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247485120&idx=1&sn=ae26cf65a2b682e0186150603534cec5)
 
 ### 示例/Demo
 * [deeplearn.net-tutorial](http://deeplearning.net/tutorial/contents.html)
@@ -39,19 +66,22 @@
 * [Fast Styel tf](https://github.com/gongqingyi-github/faststyle)
 * [手写体生成](https://greydanus.github.io/2016/08/21/handwriting)
 * [手写体生成源码](https://github.com/gongqingyi-github/scribe)
+* [ML4A](http://ml4a.github.io/guides/)
+* [手写汉字识别-tf](http://blog.topspeedsnail.com/archives/10897)
+* [top-57 deeplearning project](http://www.oschina.net/news/79500/57-most-popular-deep-learning-project-at-github)
 
 ### 文章/总结
+* [深度学习指南](http://yerevann.com/a-guide-to-deep-learning/)
 * [深度学习基础知识总结](https://nbviewer.jupyter.org/github/gongqingyi-github/MyPresentations/blob/master/DeepLearning/LearnOfDeepLearning.ipynb)
 * [THE NEURAL NETWORK ZOO](http://www.asimovinstitute.org/neural-network-zoo)
 * [LSTM 反向传播推导-tf](http://wiseodd.github.io/techblog/2016/08/12/lstm-backprop)
 * [RNN介绍-知乎专栏](https://zhuanlan.zhihu.com/p/24720659)
 * [RNN-LSTM](http://yugnaynehc.github.io/2017/01/03/understanding-lstm-networks)
 * [神经网络-增强学习](http://www.cnblogs.com/Leo_wl/p/5852010.html)
-
-### 书籍
-* [deeplearningbook-chinese](https://github.com/gongqingyi-github/deeplearningbook-chinese)
-* [tensorflow-cookbook](https://github.com/gongqingyi-github/tensorflow_cookbook)
-* [神经网络与深度学习](https://nndl.github.io)
+* [图解tensorflow源码](https://github.com/gongqingyi-github/tensorflow)
+* [LSTM时间序列分析](http://www.jakob-aungiers.com/articles/a/LSTM-Neural-Network-for-Time-Series-Prediction)
+* [时间序列分析-py](http://www.blackarbs.com/blog/time-series-analysis-in-python-linear-models-to-garch/11/1/2016)
+* [MCMC介绍-知乎专栏](https://zhuanlan.zhihu.com/p/25610149?group_id=822757126442192896)
 
 ### 论文
 * [深度学习论文-RoadMap](https://github.com/gongqingyi-github/Deep-Learning-Papers-Reading-Roadmap)
@@ -63,36 +93,22 @@
 * [Deep Probabilistic Programming](https://arxiv.org/abs/1701.03757)
 * [论文资料(杂)](https://github.com/gongqingyi-github/AdversarialNetsPapers)
 * [NLP-papers](https://github.com/gongqingyi-github/100-nlp-papers)
+* [deeplearning应用论文汇总](https://chatbotslife.com/deep-learning-publication-collections-de51e8b6ab9a#.wmaeu5a7q)
+
+## 计算广告
+* [RTP-Papers](https://github.com/gongqingyi-github/rtb-papers)
 
 ### 课程
 * [TensorFlow and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
 * [CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si)
 * [CS 224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n)
+* [Morvan](https://morvanzhou.github.io/tutorials/)
+* [开源机器学习课程](http://www.deeplearningweekly.com/blog/open-source-deep-learning-curriculum)
 
-### RL
-* [DRL-CS294](http://rll.berkeley.edu/deeprlcourse/#lecture-videos)
-* [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
-* [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
-* [Reinforcement Learning:An Introduction](http://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html)
-* [Reinforcement learning and dynamic programming using function approximators](https://orbi.ulg.ac.be/bitstream/2268/27963/1/book-FA-RL-DP.pdf)
-* [解剖强化学习](https://github.com/gongqingyi-github/dissecting-reinforcement-learning)
-* [解剖强化学习-part1](https://mpatacchiola.github.io/blog/2016/12/09/dissecting-reinforcement-learning.html)
-* [解剖强化学习-part2](https://mpatacchiola.github.io/blog/2017/01/15/dissecting-reinforcement-learning-2.html)
-* [解剖强化学习-part3](https://mpatacchiola.github.io/blog/2017/01/29/dissecting-reinforcement-learning-3.html)
-* [Chainerrl-深度强化学习库](https://github.com/gongqingyi-github/chainerrl)
-* [强化学习知识整理-知乎专栏](https://zhuanlan.zhihu.com/p/25319023)
-* [RL相关文献-知乎专栏](https://zhuanlan.zhihu.com/p/25770890)
-* [强化学习视频教程-Morvan](http://study.163.com/u/2635988091#/center/lectorCenterCourse)
-
-### GAN
-* [各种GAN汇总](https://github.com/gongqingyi-github/generative-models)
-* [GAN例子-tf](https://github.com/gongqingyi-github/tensorflow-101)
-* [How to train GAN](https://github.com/gongqingyi-github/ganhacks)
-* [AC-GAN](https://github.com/gongqingyi-github/ac-gan)
-* [DC-GAN](https://github.com/gongqingyi-github/DCGAN-tensorflow)
-* [W-GAN](https://github.com/gongqingyi-github/WassersteinGAN.tensorflow)
-* [GAN学习指南：从原理入门到制作生成Demo](https://zhuanlan.zhihu.com/p/24767059)
-* [GANs的基本原理、应用和走向](https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247485120&idx=1&sn=ae26cf65a2b682e0186150603534cec5)
+### 书籍
+* [deeplearningbook-chinese](https://github.com/gongqingyi-github/deeplearningbook-chinese)
+* [tensorflow-cookbook](https://github.com/gongqingyi-github/tensorflow_cookbook)
+* [神经网络与深度学习](https://nndl.github.io)
 
 ## 其他资源
 * [OCR资源汇总](https://github.com/gongqingyi-github/awesome-ocr)
@@ -101,4 +117,5 @@
 
 ## Blog
 * [Poll](http://www.cnblogs.com/maybe2030/)
-
+* [The Neural Perspective](https://theneuralperspective.com)
+* [WTF](http://blog.topspeedsnail.com)

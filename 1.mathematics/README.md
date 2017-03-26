@@ -1,0 +1,18 @@
+## 分析学
+
+## 代数学
+
+## 概率论
+* [Probability Cookbook](https://github.com/gongqingyi-github/stat-cookbook)
+
+## 最优化
+
+## 示例/Demo
+* [2d/3d动画](http://www.josleys.com/index.php)
+* [mandelbrot分形](https://github.com/gongqingyi-github/mandelbrot)
+
+## 书籍收藏
+* []()
+
+## 其它资源
+
