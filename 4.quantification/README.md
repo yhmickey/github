@@ -26,6 +26,7 @@
 * [PITrading](http://pitrading.com/historical-market-data.html)
 * [Yahoo财经](http://finance.yahoo.com/quote/UVXY/history?p=UVXY)
 * [Quandl](https://www.quandl.com)
+* [Quantpedia](http://quantpedia.com/Links/HistoricalData)
 
 ## 新闻快讯
 * [华尔街见闻]()
