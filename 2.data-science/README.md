@@ -1,15 +1,104 @@
+## 数据集
+* [mnist(12MB)](http://yann.lecun.com/exdb/mnist/index.html)
+* [cifar(170MB)](http://www.cs.toronto.edu/~kriz/cifar.html)
+* [COCO(40GB)](http://mscoco.org/)
+* [ImageNet(1.4TB)](http://www.image-net.org/about-stats)
+* [cooldatasets](http://cooldatasets.com)
+* [deeplearning.net数据集](http://deeplearning.net/datasets)
+
+
 ## 机器学习
+* [sklearn](http://scikit-learn.org/stable)
+* [使用sklearn集成学习-1](http://www.cnblogs.com/jasonfreak/p/5657196.html)
+* [使用sklearn集成学习-2](http://www.cnblogs.com/jasonfreak/p/5720137.html)
+* [CAML机器学习基础](http://www.52caml.com/home)
 
 ## 深度学习
 ### 框架/开源库/工具
+* [Tensorflow](https://www.tensorflow.org)
+* [Keras-en](https://keras.io)
+* [Keras-cn](http://keras-cn.readthedocs.io)
+* [MXNet](http://mxnet.io)
+* [TensorLayer](http://tensorlayer.readthedocs.io/en/latest/index.html)
+* [Paddle](https://github.com/gongqingyi-github/Paddle)
+* [Edward主页](http://edwardlib.org/zoo)
+* [Edward概率编程](https://github.com/gongqingyi-github/edward)
+
+### 示例/Demo
+* [deeplearn.net-tutorial](http://deeplearning.net/tutorial/contents.html)
+* [在线手写识别](https://github.com/gongqingyi-github/tensorflow-mnist)
+* [Tensorflow-Keras示例](https://github.com/gongqingyi-github/deep-learning-keras-tensorflow)
+* [Tensorflow基础示例](https://github.com/gongqingyi-github/tensorflow-tutorial/tree/master/Deep_Learning_with_TensorFlow/1.0.0)
+* [DeepQLearning-倒立摆](https://keon.io/rl/deep-q-learning-with-keras-and-gym)
+* [DeepQLearning-倒立摆(源码)](https://github.com/gongqingyi-github/deep-q-learning)
+* [DeepLearning实验-tf](https://github.com/gongqingyi-github/Deep-Learning-Experiments)
+* [AlexNet-tf](https://kratzert.github.io/kratzert.github.io/2017/02/24/finetuning-alexnet-with-tensorflow.html)
+* [AlexNet-tf源码](https://github.com/gongqingyi-github/finetune_alexnet_with_tensorflow)
+* [理解Batch-Normalization](https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html)
+* [Neural Style tf](https://github.com/gongqingyi-github/fast-neural-style-tensorflow)
+* [Fast Styel tf](https://github.com/gongqingyi-github/faststyle)
+* [手写体生成](https://greydanus.github.io/2016/08/21/handwriting)
+* [手写体生成源码](https://github.com/gongqingyi-github/scribe)
+
+### 文章/总结
+* [深度学习基础知识总结](https://nbviewer.jupyter.org/github/gongqingyi-github/MyPresentations/blob/master/DeepLearning/LearnOfDeepLearning.ipynb)
+* [THE NEURAL NETWORK ZOO](http://www.asimovinstitute.org/neural-network-zoo)
+* [LSTM 反向传播推导-tf](http://wiseodd.github.io/techblog/2016/08/12/lstm-backprop)
+* [RNN介绍-知乎专栏](https://zhuanlan.zhihu.com/p/24720659)
+* [RNN-LSTM](http://yugnaynehc.github.io/2017/01/03/understanding-lstm-networks)
+* [神经网络-增强学习](http://www.cnblogs.com/Leo_wl/p/5852010.html)
 
 ### 书籍
+* [deeplearningbook-chinese](https://github.com/gongqingyi-github/deeplearningbook-chinese)
+* [tensorflow-cookbook](https://github.com/gongqingyi-github/tensorflow_cookbook)
+* [神经网络与深度学习](https://nndl.github.io)
 
 ### 论文
+* [深度学习论文-RoadMap](https://github.com/gongqingyi-github/Deep-Learning-Papers-Reading-Roadmap)
+* [awesome-dl-papers](https://github.com/gongqingyi-github/awesome-deep-learning-papers)
+* [awesome-dl-resource](https://github.com/gongqingyi-github/awesome-deeplearning-resources)
+* [awesome-rl](https://github.com/gongqingyi-github/awesome-rl)
+* [deep rl papers](https://github.com/gongqingyi-github/deep-reinforcement-learning-papers)
+* [machine-learning-curriculum](https://github.com/gongqingyi-github/machine-learning-curriculum)
+* [Deep Probabilistic Programming](https://arxiv.org/abs/1701.03757)
+* [论文资料(杂)](https://github.com/gongqingyi-github/AdversarialNetsPapers)
+* [NLP-papers](https://github.com/gongqingyi-github/100-nlp-papers)
 
 ### 课程
+* [TensorFlow and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
+* [CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si)
+* [CS 224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n)
 
 ### RL
+* [DRL-CS294](http://rll.berkeley.edu/deeprlcourse/#lecture-videos)
+* [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+* [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
+* [Reinforcement Learning:An Introduction](http://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html)
+* [Reinforcement learning and dynamic programming using function approximators](https://orbi.ulg.ac.be/bitstream/2268/27963/1/book-FA-RL-DP.pdf)
+* [解剖强化学习](https://github.com/gongqingyi-github/dissecting-reinforcement-learning)
+* [解剖强化学习-part1](https://mpatacchiola.github.io/blog/2016/12/09/dissecting-reinforcement-learning.html)
+* [解剖强化学习-part2](https://mpatacchiola.github.io/blog/2017/01/15/dissecting-reinforcement-learning-2.html)
+* [解剖强化学习-part3](https://mpatacchiola.github.io/blog/2017/01/29/dissecting-reinforcement-learning-3.html)
+* [Chainerrl-深度强化学习库](https://github.com/gongqingyi-github/chainerrl)
+* [强化学习知识整理-知乎专栏](https://zhuanlan.zhihu.com/p/25319023)
+* [RL相关文献-知乎专栏](https://zhuanlan.zhihu.com/p/25770890)
+* [强化学习视频教程-Morvan](http://study.163.com/u/2635988091#/center/lectorCenterCourse)
 
 ### GAN
+* [各种GAN汇总](https://github.com/gongqingyi-github/generative-models)
+* [GAN例子-tf](https://github.com/gongqingyi-github/tensorflow-101)
+* [How to train GAN](https://github.com/gongqingyi-github/ganhacks)
+* [AC-GAN](https://github.com/gongqingyi-github/ac-gan)
+* [DC-GAN](https://github.com/gongqingyi-github/DCGAN-tensorflow)
+* [W-GAN](https://github.com/gongqingyi-github/WassersteinGAN.tensorflow)
+* [GAN学习指南：从原理入门到制作生成Demo](https://zhuanlan.zhihu.com/p/24767059)
+* [GANs的基本原理、应用和走向](https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247485120&idx=1&sn=ae26cf65a2b682e0186150603534cec5)
+
+## 其他资源
+* [OCR资源汇总](https://github.com/gongqingyi-github/awesome-ocr)
+* [QIX 机器学习&深度学习资料](https://github.com/gongqingyi-github/Qix)
+* [Machine-Learning-Plan-2017](https://www.analyticsvidhya.com/blog/2017/01/the-most-comprehensive-data-science-learning-plan-for-2017)
+
+## Blog
+* [Poll](http://www.cnblogs.com/maybe2030/)
 

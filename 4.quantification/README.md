@@ -42,6 +42,8 @@
 * [Statsmodels](https://github.com/gongqingyi-github/statsmodels)
 * [pyfolio](https://github.com/gongqingyi-github/pyfolio)
 * [QuantLib](https://github.com/gongqingyi-github/QuantLib)
+* [Prophet首页](https://facebookincubator.github.io/prophet)
+* [Prophet源码](https://github.com/gongqingyi-github/prophet)
 
 ## 书籍
 * [股票大作手回忆录]()
