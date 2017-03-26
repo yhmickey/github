@@ -32,7 +32,7 @@
 * [金十数据]()
 * [标普500期货]()
 
-## 库
+## Python库
 * [Ta-Lib](https://github.com/gongqingyi-github/ta-lib)
 * [Arch](https://github.com/gongqingyi-github/arch)
 * [Statsmodels](https://github.com/gongqingyi-github/statsmodels)
