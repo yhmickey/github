@@ -4,5 +4,5 @@
 
 ## [编程开发](https://github.com/gongqingyi/github/tree/master/3.programming)
 
-## [量化交](https://github.com/gongqingyi/github/tree/master/4.quantification)
+## [量化交易](https://github.com/gongqingyi/github/tree/master/4.quantification)
 
