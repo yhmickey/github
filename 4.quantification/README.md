@@ -5,6 +5,7 @@
 ## 回测框架
 * [zipline源码](https://github.com/gongqingyi-github/zipline)
 * [zipline文档](http://www.zipline.io)
+* [Quantopian](https://www.quantopian.com)
 * [rqalpha源码](https://github.com/gongqingyi-github/rqalpha)
 * [rqalpha文档](https://www.ricequant.com/api/python/chn)
 * [pyalgotrade源码](https://github.com/gongqingyi-github/pyalgotrade)
