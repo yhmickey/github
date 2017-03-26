@@ -31,6 +31,7 @@
 * [VIX波动率](https://www.cboe.com/products/vix-index-volatility/vix-options-and-futures/vix-index/vix-historical-data)
 
 ## Python库
+* [quant开源库汇总](https://github.com/gongqingyi-github/awesome-quant-1)
 * [Ta-Lib](https://github.com/gongqingyi-github/ta-lib)
 * [Arch](https://github.com/gongqingyi-github/arch)
 * [Statsmodels](https://github.com/gongqingyi-github/statsmodels)

@@ -74,6 +74,7 @@
 * [深度学习指南](http://yerevann.com/a-guide-to-deep-learning/)
 * [深度学习基础知识总结](https://nbviewer.jupyter.org/github/gongqingyi-github/MyPresentations/blob/master/DeepLearning/LearnOfDeepLearning.ipynb)
 * [THE NEURAL NETWORK ZOO](http://www.asimovinstitute.org/neural-network-zoo)
+* [dl-benchmark](http://dlbench.comp.hkbu.edu.hk)
 * [LSTM 反向传播推导-tf](http://wiseodd.github.io/techblog/2016/08/12/lstm-backprop)
 * [RNN介绍-知乎专栏](https://zhuanlan.zhihu.com/p/24720659)
 * [RNN-LSTM](http://yugnaynehc.github.io/2017/01/03/understanding-lstm-networks)

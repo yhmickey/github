@@ -3,6 +3,7 @@
 
 ## Python
 ### python基础
+* [LearnPython](https://github.com/gongqingyi-github/LearnPython)
 * [awesome-python](https://github.com/gongqingyi-github/awesome-python)
 * [Python之旅](https://github.com/gongqingyi-github/explore-python)
 * [pandas-pivot](http://pbpython.com/pandas-pivot-table-explained.html)
