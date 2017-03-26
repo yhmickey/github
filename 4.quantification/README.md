@@ -23,11 +23,12 @@
 * [Uqer通联](https://uqer.io/home)
 * [掘金量化](http://www.myquant.cn/docs)
 
-## 交易数据
+## 历史数据
 * [PITrading](http://pitrading.com/historical-market-data.html)
 * [Yahoo财经](http://finance.yahoo.com/quote/UVXY/history?p=UVXY)
 * [Quandl](https://www.quandl.com)
 * [Quantpedia](http://quantpedia.com/Links/HistoricalData)
+* [VIX波动率](https://www.cboe.com/products/vix-index-volatility/vix-options-and-futures/vix-index/vix-historical-data)
 
 ## 新闻快讯
 * [华尔街见闻]()
