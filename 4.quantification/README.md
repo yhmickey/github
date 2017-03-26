@@ -13,6 +13,7 @@
 * [backtrader文档](https://www.backtrader.com/docu/index.html)
 * [QuantAxis](https://github.com/gongqingyi-github/QUANTAXIS)
 * [Bulbea深度学习](https://github.com/gongqingyi-github/bulbea)
+* [Lean](https://github.com/gongqingyi-github/Lean)
 
 * [果仁网](https://guorn.com)
 * [RaQuant](http://raquant.com)
@@ -21,10 +22,35 @@
 * [Uqer通联](https://uqer.io/home)
 * [掘金量化](http://www.myquant.cn/docs)
 
-
 ## 交易数据
 * [PITrading](http://pitrading.com/historical-market-data.html)
+* [Yahoo财经](http://finance.yahoo.com/quote/UVXY/history?p=UVXY)
 
-## 策略算法
+## 新闻快讯
+* [华尔街见闻]
+* [新浪财经]
+* [金十数据]
+* [标普500期货]
 
+## 库
+* [Ta-Lib](https://github.com/gongqingyi-github/ta-lib)
+* [Arch](https://github.com/gongqingyi-github/arch)
+* [Statsmodels](https://github.com/gongqingyi-github/statsmodels)
+* [pyfolio](https://github.com/gongqingyi-github/pyfolio)
+* [QuantLib](https://github.com/gongqingyi-github/QuantLib)
 
+## 书籍
+* [股票大作手回忆录]
+* [股票大作手操盘术]
+* [专业投机原理]
+* [日本蜡烛图技术]
+* [金融衍生工具数学导论]
+* [金融随机分析]
+* [聪明的投资者]
+* [漫步华尔街]
+* [期权投资策略]
+* [以交易为生]
+* [数量金融]
+
+## 论文
+* [quant论文收集](https://github.com/thuquant/awesome-quant/blob/master/papers.md)
