@@ -83,6 +83,7 @@
 * [LSTM时间序列分析](http://www.jakob-aungiers.com/articles/a/LSTM-Neural-Network-for-Time-Series-Prediction)
 * [时间序列分析-py](http://www.blackarbs.com/blog/time-series-analysis-in-python-linear-models-to-garch/11/1/2016)
 * [MCMC介绍-知乎专栏](https://zhuanlan.zhihu.com/p/25610149?group_id=822757126442192896)
+* [PRML-代码](https://github.com/gongqingyi-github/PRMLT)
 
 ### 论文
 * [深度学习论文-RoadMap](https://github.com/gongqingyi-github/Deep-Learning-Papers-Reading-Roadmap)
