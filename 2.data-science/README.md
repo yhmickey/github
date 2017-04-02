@@ -58,7 +58,8 @@
 * [Tensorflow基础示例](https://github.com/gongqingyi-github/tensorflow-tutorial/tree/master/Deep_Learning_with_TensorFlow/1.0.0)
 * [DeepQLearning-倒立摆](https://keon.io/rl/deep-q-learning-with-keras-and-gym)
 * [DeepQLearning-倒立摆(源码)](https://github.com/gongqingyi-github/deep-q-learning)
-* [DeepLearning实验-tf](https://github.com/gongqingyi-github/Deep-Learning-Experiments)
+* [DeepLearning实验-tf](https://github.com/gongqingyi-github/Deep-Learning-Experiments):star:
+* [DC-GAN-Keras](https://github.com/gongqingyi-github/Deep-Learning-Experiments/blob/master/Experiments/Tensorflow/GAN/dcgan_mnist.py)
 * [AlexNet-tf](https://kratzert.github.io/kratzert.github.io/2017/02/24/finetuning-alexnet-with-tensorflow.html)
 * [AlexNet-tf源码](https://github.com/gongqingyi-github/finetune_alexnet_with_tensorflow)
 * [理解Batch-Normalization](https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html)
