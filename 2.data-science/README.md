@@ -107,6 +107,7 @@
 * [CS 224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n)
 * [Morvan](https://morvanzhou.github.io/tutorials/)
 * [开源机器学习课程](http://www.deeplearningweekly.com/blog/open-source-deep-learning-curriculum)
+* [Tensorflow视频](https://www.youtube.com/playlist?list=PLnUknG7KBFzqMSDZC1mnYMN0zMoRaH68r&disable_polymer=true)  
 
 ### 书籍
 * [deeplearningbook-chinese](https://github.com/gongqingyi-github/deeplearningbook-chinese)
