@@ -106,6 +106,7 @@
 * [CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si)
 * [CS 224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n)
 * [CS 231: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu)
+* [CS 228: Probabilistic Graphical Models](http://cs.stanford.edu/~ermon/cs228/index.html)
 * [Morvan](https://morvanzhou.github.io/tutorials/)
 * [开源机器学习课程](http://www.deeplearningweekly.com/blog/open-source-deep-learning-curriculum)
 * [Tensorflow视频](https://www.youtube.com/playlist?list=PLnUknG7KBFzqMSDZC1mnYMN0zMoRaH68r&disable_polymer=true)  
