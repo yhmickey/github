@@ -94,7 +94,7 @@
 * [deep rl papers](https://github.com/gongqingyi-github/deep-reinforcement-learning-papers)
 * [machine-learning-curriculum](https://github.com/gongqingyi-github/machine-learning-curriculum)
 * [Deep Probabilistic Programming](https://arxiv.org/abs/1701.03757)
-* [论文资料(杂)](https://github.com/gongqingyi-github/AdversarialNetsPapers)
+* [对抗网络论文资料(杂)](https://github.com/gongqingyi-github/AdversarialNetsPapers)
 * [NLP-papers](https://github.com/gongqingyi-github/100-nlp-papers)
 * [deeplearning应用论文汇总](https://chatbotslife.com/deep-learning-publication-collections-de51e8b6ab9a#.wmaeu5a7q)
 
