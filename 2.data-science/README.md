@@ -5,6 +5,7 @@
 * [ImageNet(1.4TB)](http://www.image-net.org/about-stats)
 * [cooldatasets](http://cooldatasets.com)
 * [deeplearning.net数据集](http://deeplearning.net/datasets)
+* [Free Datasets](https://webhose.io/datasets)
 
 
 ## 机器学习
