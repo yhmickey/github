@@ -70,6 +70,7 @@
 * [手写体生成源码](https://github.com/gongqingyi-github/scribe)
 * [ML4A](http://ml4a.github.io/guides/)
 * [手写汉字识别-tf](http://blog.topspeedsnail.com/archives/10897)
+* [CGAN中文书法](https://github.com/gongqingyi-github/zi2zi)
 * [top-57 deeplearning project](http://www.oschina.net/news/79500/57-most-popular-deep-learning-project-at-github)
 
 ### 文章/总结
