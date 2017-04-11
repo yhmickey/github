@@ -25,6 +25,7 @@
 * [Paddle](https://github.com/gongqingyi-github/Paddle)
 * [Edward主页](http://edwardlib.org/zoo)
 * [Edward概率编程](https://github.com/gongqingyi-github/edward)
+* [Google-seq2seq](https://github.com/gongqingyi-github/seq2seq)
 
 ### RL
 * [DRL-CS294](http://rll.berkeley.edu/deeprlcourse/#lecture-videos)
