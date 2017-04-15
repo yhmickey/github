@@ -57,6 +57,7 @@
 * [deeplearn.net-tutorial](http://deeplearning.net/tutorial/contents.html)
 * [在线手写识别](https://github.com/gongqingyi-github/tensorflow-mnist)
 * [Tensorflow-Keras示例](https://github.com/gongqingyi-github/deep-learning-keras-tensorflow)
+* [Tensorflow示例](https://github.com/gongqingyi-github/tensorflow-tutorial-1)
 * [Tensorflow基础示例](https://github.com/gongqingyi-github/tensorflow-tutorial/tree/master/Deep_Learning_with_TensorFlow/1.0.0)
 * [DeepQLearning-倒立摆](https://keon.io/rl/deep-q-learning-with-keras-and-gym)
 * [DeepQLearning-倒立摆(源码)](https://github.com/gongqingyi-github/deep-q-learning)
