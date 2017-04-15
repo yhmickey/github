@@ -89,6 +89,7 @@
 * [时间序列分析-py](http://www.blackarbs.com/blog/time-series-analysis-in-python-linear-models-to-garch/11/1/2016)
 * [MCMC介绍-知乎专栏](https://zhuanlan.zhihu.com/p/25610149?group_id=822757126442192896)
 * [PRML-代码](https://github.com/gongqingyi-github/PRMLT)
+* [sklearn-模型组合](https://www.zhihu.com/question/29679189)
 
 ### 论文
 * [深度学习论文-RoadMap](https://github.com/gongqingyi-github/Deep-Learning-Papers-Reading-Roadmap)
