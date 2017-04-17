@@ -59,6 +59,7 @@
 * [Tensorflow-Keras示例](https://github.com/gongqingyi-github/deep-learning-keras-tensorflow)
 * [Tensorflow示例](https://github.com/gongqingyi-github/tensorflow-tutorial-1)
 * [Tensorflow基础示例](https://github.com/gongqingyi-github/tensorflow-tutorial/tree/master/Deep_Learning_with_TensorFlow/1.0.0)
+* [Tessorflow示例教程](https://yq.aliyun.com/articles/71257)
 * [DeepQLearning-倒立摆](https://keon.io/rl/deep-q-learning-with-keras-and-gym)
 * [DeepQLearning-倒立摆(源码)](https://github.com/gongqingyi-github/deep-q-learning)
 * [DeepLearning实验-tf](https://github.com/gongqingyi-github/Deep-Learning-Experiments):star:
