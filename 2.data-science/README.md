@@ -90,6 +90,9 @@
 * [MCMC介绍-知乎专栏](https://zhuanlan.zhihu.com/p/25610149?group_id=822757126442192896)
 * [PRML-代码](https://github.com/gongqingyi-github/PRMLT)
 * [sklearn-模型组合](https://www.zhihu.com/question/29679189)
+* [机器学习经验总结-1](https://yq.aliyun.com/articles/73755）
+* [机器学习经验总结-2](https://yq.aliyun.com/articles/73757)
+
 
 ### 论文
 * [深度学习论文-RoadMap](https://github.com/gongqingyi-github/Deep-Learning-Papers-Reading-Roadmap)
