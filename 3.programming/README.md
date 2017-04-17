@@ -7,7 +7,7 @@
 * [awesome-python](https://github.com/gongqingyi-github/awesome-python)
 * [Python之旅](https://github.com/gongqingyi-github/explore-python)
 * [pandas-pivot](http://pbpython.com/pandas-pivot-table-explained.html)
-
+* [python数据结构与算法](https://github.com/gongqingyi/algorithms-1)
 ### Python开源库
 * [click](http://click.pocoo.org)
 
