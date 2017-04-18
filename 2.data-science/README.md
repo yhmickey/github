@@ -52,6 +52,7 @@
 * [W-GAN](https://github.com/gongqingyi-github/WassersteinGAN.tensorflow)
 * [GAN学习指南：从原理入门到制作生成Demo](https://zhuanlan.zhihu.com/p/24767059)
 * [GANs的基本原理、应用和走向](https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247485120&idx=1&sn=ae26cf65a2b682e0186150603534cec5)
+* [New Progress on GAN Theory and Practice](https://casmls.github.io/general/2017/04/13/gan.html)
 
 ### 示例/Demo
 * [deeplearn.net-tutorial](http://deeplearning.net/tutorial/contents.html)
