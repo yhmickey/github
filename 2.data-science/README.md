@@ -77,6 +77,7 @@
 * [手写汉字识别-tf](http://blog.topspeedsnail.com/archives/10897)
 * [CGAN中文书法](https://github.com/gongqingyi-github/zi2zi)
 * [top-57 deeplearning project](http://www.oschina.net/news/79500/57-most-popular-deep-learning-project-at-github)
+* [基于Keras/MongoDB的超简单分布式超参优化](https://github.com/gongqingyi-github/super-simple-distributed-keras)
 
 ### 文章/总结
 * [深度学习指南](http://yerevann.com/a-guide-to-deep-learning/)
