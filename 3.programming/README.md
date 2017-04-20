@@ -1,5 +1,8 @@
 ## 云主机
 * [GCE](https://console.cloud.google.com/home/dashboard)
+## 算法
+* [常见算法汇总](http://www.imooc.com/article/11159)
+
 
 ## Python
 ### python基础
