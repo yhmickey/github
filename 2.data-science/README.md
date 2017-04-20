@@ -43,6 +43,7 @@
 * [RL相关文献-知乎专栏](https://zhuanlan.zhihu.com/p/25770890)
 * [强化学习视频教程-Morvan](http://study.163.com/u/2635988091#/center/lectorCenterCourse)
 * [RL-Algorithms](https://github.com/gongqingyi-github/reinforcement-learning)
+* [reinforcement-learning-Keras](https://github.com/gongqingyi-github/reinforcement-learning-1)
 
 ### GAN
 * [各种GAN汇总](https://github.com/gongqingyi-github/generative-models)
