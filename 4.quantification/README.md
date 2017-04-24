@@ -2,7 +2,7 @@
 * [盈透证券](http://interactivebrokers.github.io/tws-api)
 * [tws-async](https://github.com/gongqingyi-github/tws_async)
 
-## 回测框架
+## 回测/交易框架
 * [zipline源码](https://github.com/gongqingyi-github/zipline)
 * [zipline文档](http://www.zipline.io)
 * [Zipline源码分析](https://github.com/rainx/inside-zipline/blob/master/SUMMARY.md)
@@ -16,6 +16,7 @@
 * [QuantAxis](https://github.com/gongqingyi-github/QUANTAXIS)
 * [Bulbea深度学习](https://github.com/gongqingyi-github/bulbea)
 * [Lean](https://github.com/gongqingyi-github/Lean)
+* [AI-Trading](https://github.com/gongqingyi-github/zenbot)
 
 * [果仁网](https://guorn.com)
 * [RaQuant](http://raquant.com)
