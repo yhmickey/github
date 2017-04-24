@@ -81,6 +81,7 @@
 * [top-57 deeplearning project](http://www.oschina.net/news/79500/57-most-popular-deep-learning-project-at-github)
 * [基于Keras/MongoDB的超简单分布式超参优化](https://github.com/gongqingyi-github/super-simple-distributed-keras)
 * [DQN-Flappy-bird](http://www.jianshu.com/p/0a04426ee3ad)
+* [seaborn-demo](https://www.kaggle.com/rochachan/d/seanlahman/the-history-of-baseball/how-to-be-a-member-of-baseball-hall-of-fame)
 
 ### 文章/总结
 * [深度学习指南](http://yerevann.com/a-guide-to-deep-learning/)
