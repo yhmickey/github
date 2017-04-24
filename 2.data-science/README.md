@@ -14,6 +14,7 @@
 * [使用sklearn集成学习-2](http://www.cnblogs.com/jasonfreak/p/5720137.html)
 * [CAML机器学习基础](http://www.52caml.com/home)
 * [梯度下降算法概览](http://sebastianruder.com/optimizing-gradient-descent/)
+* [机器学习笔记-李航版](https://github.com/gongqingyi-github/ml)
 
 ## 深度学习
 ### 框架/开源库/工具
