@@ -53,6 +53,7 @@
 * [AC-GAN](https://github.com/gongqingyi-github/ac-gan)
 * [DC-GAN](https://github.com/gongqingyi-github/DCGAN-tensorflow)
 * [W-GAN](https://github.com/gongqingyi-github/WassersteinGAN.tensorflow)
+* [W-GAN](http://www.alexirpan.com/2017/02/22/wasserstein-gan.html)
 * [GAN学习指南：从原理入门到制作生成Demo](https://zhuanlan.zhihu.com/p/24767059)
 * [GANs的基本原理、应用和走向](https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247485120&idx=1&sn=ae26cf65a2b682e0186150603534cec5)
 * [New Progress on GAN Theory and Practice](https://casmls.github.io/general/2017/04/13/gan.html)
