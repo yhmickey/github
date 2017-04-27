@@ -86,6 +86,8 @@
 ### 文章/总结
 * [深度学习指南](http://yerevann.com/a-guide-to-deep-learning/)
 * [深度学习基础知识总结](https://nbviewer.jupyter.org/github/gongqingyi-github/MyPresentations/blob/master/DeepLearning/LearnOfDeepLearning.ipynb)
+* [BatchNorm-1](http://www.alexirpan.com/public/perils-batch-norm/batch_norm_appendix.html)
+* [BatchNorm-2](http://www.alexirpan.com/2017/04/26/perils-batch-norm.html)
 * [THE NEURAL NETWORK ZOO](http://www.asimovinstitute.org/neural-network-zoo)
 * [dl-benchmark](http://dlbench.comp.hkbu.edu.hk)
 * [LSTM 反向传播推导-tf](http://wiseodd.github.io/techblog/2016/08/12/lstm-backprop)
