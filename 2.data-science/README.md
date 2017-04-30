@@ -104,7 +104,7 @@
 * [sklearn-模型组合](https://www.zhihu.com/question/29679189)
 * [机器学习经验总结-1](https://yq.aliyun.com/articles/73755）
 * [机器学习经验总结-2](https://yq.aliyun.com/articles/73757)
-
+* [神经网络文本特征提取](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650726033&idx=1&sn=5c0b0939e25b0f00a1c62446c805dfd3)
 
 ### 论文
 * [深度学习论文-RoadMap](https://github.com/gongqingyi-github/Deep-Learning-Papers-Reading-Roadmap)
