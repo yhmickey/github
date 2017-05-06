@@ -85,6 +85,7 @@
 * [DQN-Flappy-bird](http://www.jianshu.com/p/0a04426ee3ad)
 * [seaborn-demo](https://www.kaggle.com/rochachan/d/seanlahman/the-history-of-baseball/how-to-be-a-member-of-baseball-hall-of-fame)
 * [视觉识别简史](https://github.com/gongqingyi-github/HistoryObjectRecognition)
+* [PyTorch实践](https://github.com/gongqingyi-github/practical-pytorch)
 
 ### 文章/总结
 * [深度学习指南](http://yerevann.com/a-guide-to-deep-learning/)
@@ -103,7 +104,7 @@
 * [MCMC介绍-知乎专栏](https://zhuanlan.zhihu.com/p/25610149?group_id=822757126442192896)
 * [PRML-代码](https://github.com/gongqingyi-github/PRMLT)
 * [sklearn-模型组合](https://www.zhihu.com/question/29679189)
-* [机器学习经验总结-1](https://yq.aliyun.com/articles/73755）
+* [机器学习经验总结-1](https://yq.aliyun.com/articles/73755)
 * [机器学习经验总结-2](https://yq.aliyun.com/articles/73757)
 * [神经网络文本特征提取](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650726033&idx=1&sn=5c0b0939e25b0f00a1c62446c805dfd3)
 * [神经网络-图像识别发展](http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650726203&idx=1&sn=6116c18b14602aea0d1a5c1c1df8e448)
