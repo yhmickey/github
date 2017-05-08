@@ -86,6 +86,7 @@
 * [seaborn-demo](https://www.kaggle.com/rochachan/d/seanlahman/the-history-of-baseball/how-to-be-a-member-of-baseball-hall-of-fame)
 * [视觉识别简史](https://github.com/gongqingyi-github/HistoryObjectRecognition)
 * [PyTorch实践](https://github.com/gongqingyi-github/practical-pytorch)
+* [DCGAN-ACGAN-Keras](https://github.com/gongqingyi-github/DCGANs)
 
 ### 文章/总结
 * [深度学习指南](http://yerevann.com/a-guide-to-deep-learning/)
