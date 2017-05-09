@@ -124,6 +124,7 @@
 * [NLP-papers](https://github.com/gongqingyi-github/100-nlp-papers)
 * [deeplearning应用论文汇总](https://chatbotslife.com/deep-learning-publication-collections-de51e8b6ab9a#.wmaeu5a7q)
 * [Columbia Advanced Machine Learning Seminar](https://casmls.github.io/papers)
+* [深度学习-推荐系统 论文集](https://github.com/gongqingyi-github/Deep-Learning-for-Recommendation-Systems)
 
 ## 计算广告
 * [RTP-Papers](https://github.com/gongqingyi-github/rtb-papers)
