@@ -17,6 +17,7 @@
 * [Bulbea深度学习](https://github.com/gongqingyi-github/bulbea)
 * [Lean](https://github.com/gongqingyi-github/Lean)
 * [AI-Trading](https://github.com/gongqingyi-github/zenbot)
+* [算法交易平台$#](https://github.com/gongqingyi-github/StockSharp)
 
 * [果仁网](https://guorn.com)
 * [RaQuant](http://raquant.com)
