@@ -16,6 +16,7 @@
 * [梯度下降算法概览](http://sebastianruder.com/optimizing-gradient-descent/)
 * [机器学习笔记-李航版](https://github.com/gongqingyi-github/ml)
 * [quick-ml-intro-sklearn](https://github.com/gongqingyi-github/quick-ml-intro)
+* [基于sklearn机器学习流水线框架](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur)
 
 ## 深度学习
 ### 框架/开源库/工具
