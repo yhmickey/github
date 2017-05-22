@@ -89,6 +89,8 @@
 * [PyTorch实践](https://github.com/gongqingyi-github/practical-pytorch)
 * [DCGAN-ACGAN-Keras](https://github.com/gongqingyi-github/DCGANs)
 * [Keras实现推荐系统](https://github.com/gongqingyi-github/keras-recommendation)
+* [Tensorflow-demo ipynb 集合](https://github.com/gongqingyi-github/TensorFlow-Tutorials)
+
 
 ### 文章/总结
 * [深度学习指南](http://yerevann.com/a-guide-to-deep-learning/)
