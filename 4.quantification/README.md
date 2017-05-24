@@ -46,6 +46,7 @@
 ## 示例/Demo
 * [Python金融数据分析](https://github.com/gongqingyi-github/dx)
 * [AlphaPy](https://github.com/gongqingyi-github/AlphaPyAlphaPy)
+* [在VPS上运行IBGateway](http://algoeye.com/blog/running-ib-gateway-on-vps/)
 
 ## 书籍
 * [股票大作手回忆录]()
