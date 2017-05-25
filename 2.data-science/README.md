@@ -30,6 +30,7 @@
 * [Edward概率编程](https://github.com/gongqingyi-github/edward)
 * [Google-seq2seq](https://github.com/gongqingyi-github/seq2seq)
 * [scikit-tensor](https://github.com/gongqingyi-github/scikit-tensor)
+* [深度学习工具库(通过配置文件跑模型)](https://github.com/polyaxon/polyaxon)
 
 ### RL
 * [DRL-CS294](http://rll.berkeley.edu/deeprlcourse/#lecture-videos)
@@ -116,6 +117,7 @@
 * [神经翻译相关](http://www.cnblogs.com/zhbzz2007/p/6276712.html)
 * [神经网络-知识图谱](http://geek.csdn.net/news/detail/195701)
 * [Tensorflow 最佳实践](https://github.com/gongqingyi-github/tf-bestpractice)
+* [ 基于PyMC的贝叶斯分析方法](https://ericmjl.github.io/bayesian-stats-talk)
 
 ### 论文
 * [深度学习论文-RoadMap](https://github.com/gongqingyi-github/Deep-Learning-Papers-Reading-Roadmap)
@@ -130,6 +132,7 @@
 * [deeplearning应用论文汇总](https://chatbotslife.com/deep-learning-publication-collections-de51e8b6ab9a#.wmaeu5a7q)
 * [Columbia Advanced Machine Learning Seminar](https://casmls.github.io/papers)
 * [深度学习-推荐系统 论文集](https://github.com/gongqingyi-github/Deep-Learning-for-Recommendation-Systems)
+* [LSTM 网络相关文章汇总](http://machinelearningmastery.com/gentle-introduction-long-short-term-memory-networks-experts)
 
 ## 计算广告
 * [RTP-Papers](https://github.com/gongqingyi-github/rtb-papers)
@@ -145,6 +148,7 @@
 * [Tensorflow视频](https://www.youtube.com/playlist?list=PLnUknG7KBFzqMSDZC1mnYMN0zMoRaH68r&disable_polymer=true)  
 * [基于Python的计算统计学-杜克大学](https://github.com/gongqingyi-github/Computational-statistics-with-Python-CN)
 * [台湾大学李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/index.html)
+* [深度学习Slide and notebook](https://m2dsupsdlclass.github.io/lectures-labs)
 
 ### 书籍
 * [deeplearningbook-chinese](https://github.com/gongqingyi-github/deeplearningbook-chinese)
