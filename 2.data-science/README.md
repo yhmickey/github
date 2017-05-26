@@ -60,8 +60,11 @@
 * [GAN学习指南：从原理入门到制作生成Demo](https://zhuanlan.zhihu.com/p/24767059)
 * [GANs的基本原理、应用和走向](https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247485120&idx=1&sn=ae26cf65a2b682e0186150603534cec5)
 * [New Progress on GAN Theory and Practice](https://casmls.github.io/general/2017/04/13/gan.html)
+* [深入浅出 GAN 原理](https://mp.weixin.qq.com/s?__biz=MzAwMjM3MTc5OA==&mid=2652692740&idx=1&sn=f1b134f63eb0bf5e4d6759db4d740e58)
+
 
 ### 示例/Demo
+* [\star Deeplearning-Keras-Tensorflow](https://github.com/gongqingyi-github/deep-learning-keras-tensorflow)
 * [deeplearn.net-tutorial](http://deeplearning.net/tutorial/contents.html)
 * [在线手写识别](https://github.com/gongqingyi-github/tensorflow-mnist)
 * [Tensorflow-Keras示例](https://github.com/gongqingyi-github/deep-learning-keras-tensorflow)
