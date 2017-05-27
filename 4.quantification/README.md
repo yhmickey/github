@@ -47,6 +47,7 @@
 * [Python金融数据分析](https://github.com/gongqingyi-github/dx)
 * [AlphaPy](https://github.com/gongqingyi-github/AlphaPyAlphaPy)
 * [在VPS上运行IBGateway](http://algoeye.com/blog/running-ib-gateway-on-vps/)
+* [神经网络金融时间序列](https://github.com/gongqingyi-github/Neural-Network-with-Financial-Time-Series-Data)
 
 ## 书籍
 * [股票大作手回忆录]()
