@@ -120,7 +120,8 @@
 * [神经翻译相关](http://www.cnblogs.com/zhbzz2007/p/6276712.html)
 * [神经网络-知识图谱](http://geek.csdn.net/news/detail/195701)
 * [Tensorflow 最佳实践](https://github.com/gongqingyi-github/tf-bestpractice)
-* [ 基于PyMC的贝叶斯分析方法](https://ericmjl.github.io/bayesian-stats-talk)
+* [基于PyMC的贝叶斯分析方法](https://ericmjl.github.io/bayesian-stats-talk)
+* [深度学习多任务学习](http://sebastianruder.com/multi-task/index.html)
 
 ### 论文
 * [深度学习论文-RoadMap](https://github.com/gongqingyi-github/Deep-Learning-Papers-Reading-Roadmap)
