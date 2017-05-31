@@ -25,6 +25,7 @@
 * [Ricequant](https://www.ricequant.com)
 * [Uqer通联](https://uqer.io/home)
 * [掘金量化](http://www.myquant.cn/docs)
+* [BigQuant](https://bigquant.com)
 
 ## 历史数据
 * [PITrading](http://pitrading.com/historical-market-data.html)
