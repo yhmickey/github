@@ -153,6 +153,7 @@
 * [基于Python的计算统计学-杜克大学](https://github.com/gongqingyi-github/Computational-statistics-with-Python-CN)
 * [台湾大学李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/index.html)
 * [深度学习Slide and notebook](https://m2dsupsdlclass.github.io/lectures-labs)
+* [深度学习基础5课程](https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247485456&idx=1&sn=f1650723dbbe72ee1b87fd91ca3e177a)
 
 ### 书籍
 * [deeplearningbook-chinese](https://github.com/gongqingyi-github/deeplearningbook-chinese)
