@@ -130,6 +130,7 @@
 * [awesome-dl-resource](https://github.com/gongqingyi-github/awesome-deeplearning-resources)
 * [awesome-rl](https://github.com/gongqingyi-github/awesome-rl)
 * [deep rl papers](https://github.com/gongqingyi-github/deep-reinforcement-learning-papers)
+* [Fundations_for_DeepLearning](https://github.com/gongqingyi-github/foundations_for_deep_learning)
 * [machine-learning-curriculum](https://github.com/gongqingyi-github/machine-learning-curriculum)
 * [Deep Probabilistic Programming](https://arxiv.org/abs/1701.03757)
 * [对抗网络论文资料(杂)](https://github.com/gongqingyi-github/AdversarialNetsPapers)
