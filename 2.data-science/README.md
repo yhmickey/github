@@ -130,7 +130,7 @@
 * [awesome-dl-resource](https://github.com/gongqingyi-github/awesome-deeplearning-resources)
 * [awesome-rl](https://github.com/gongqingyi-github/awesome-rl)
 * [deep rl papers](https://github.com/gongqingyi-github/deep-reinforcement-learning-papers)
-* [Fundations_for_DeepLearning](https://github.com/gongqingyi-github/foundations_for_deep_learning)
+* [:star:Fundations_for_DeepLearning](https://github.com/gongqingyi-github/foundations_for_deep_learning)
 * [machine-learning-curriculum](https://github.com/gongqingyi-github/machine-learning-curriculum)
 * [Deep Probabilistic Programming](https://arxiv.org/abs/1701.03757)
 * [对抗网络论文资料(杂)](https://github.com/gongqingyi-github/AdversarialNetsPapers)
@@ -139,6 +139,9 @@
 * [Columbia Advanced Machine Learning Seminar](https://casmls.github.io/papers)
 * [深度学习-推荐系统 论文集](https://github.com/gongqingyi-github/Deep-Learning-for-Recommendation-Systems)
 * [LSTM 网络相关文章汇总](http://machinelearningmastery.com/gentle-introduction-long-short-term-memory-networks-experts)
+* [:star:音乐风格迁移](http://imanmalik.com/cs/2017/06/05/neural-style.html)
+* [:star:音乐风格迁移git](https://github.com/gongqingyi-github/StyleNet)
+
 
 ## 计算广告
 * [RTP-Papers](https://github.com/gongqingyi-github/rtb-papers)
