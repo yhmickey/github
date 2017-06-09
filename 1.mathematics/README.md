@@ -17,3 +17,4 @@
 
 ## 其它资源
 * [数学编年史](http://www-history.mcs.st-andrews.ac.uk/Chronology/full.html)
+* [数学资源](http://www.cengageasia.com/Browse/Higher_Education/Mathematics_and_Science/Mathematics)
