@@ -23,6 +23,7 @@
 * [Tensorflow](https://www.tensorflow.org)
 * [Keras-en](https://keras.io)
 * [Keras-cn](http://keras-cn.readthedocs.io)
+* [PyTorch中文文档](http://pytorch-cn.readthedocs.io/zh/latest)
 * [MXNet](http://mxnet.io)
 * [TensorLayer](http://tensorlayer.readthedocs.io/en/latest/index.html)
 * [Paddle](https://github.com/gongqingyi-github/Paddle)
