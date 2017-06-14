@@ -32,6 +32,7 @@
 * [Google-seq2seq](https://github.com/gongqingyi-github/seq2seq)
 * [scikit-tensor](https://github.com/gongqingyi-github/scikit-tensor)
 * [深度学习工具库(通过配置文件跑模型)](https://github.com/polyaxon/polyaxon)
+* [中科院计算所-EasyML](https://github.com/gongqingyi-github/EasyML)
 
 ### RL
 * [DRL-CS294](http://rll.berkeley.edu/deeprlcourse/#lecture-videos)
@@ -124,6 +125,7 @@
 * [基于PyMC的贝叶斯分析方法](https://ericmjl.github.io/bayesian-stats-talk)
 * [深度学习多任务学习](http://sebastianruder.com/multi-task/index.html)
 * [从零开发一个复杂深度学习模型](http://www.jianshu.com/p/20585e3b6d02)
+* [BatchNoram](https://mp.weixin.qq.com/s?__biz=MzIzNDQyNjI5Mg==&mid=2247484590&idx=1&sn=d11e94ac160d38dd797c45613f563a70)
 
 ### 论文
 * [深度学习论文-RoadMap](https://github.com/gongqingyi-github/Deep-Learning-Papers-Reading-Roadmap)
