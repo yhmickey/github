@@ -33,6 +33,7 @@
 * [scikit-tensor](https://github.com/gongqingyi-github/scikit-tensor)
 * [深度学习工具库(通过配置文件跑模型)](https://github.com/polyaxon/polyaxon)
 * [中科院计算所-EasyML](https://github.com/gongqingyi-github/EasyML)
+* [machine-learning-python3](https://github.com/ethen8181/machine-learning)
 
 
 ### RL
