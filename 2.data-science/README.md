@@ -34,6 +34,7 @@
 * [深度学习工具库(通过配置文件跑模型)](https://github.com/polyaxon/polyaxon)
 * [中科院计算所-EasyML](https://github.com/gongqingyi-github/EasyML)
 
+
 ### RL
 * [DRL-CS294](http://rll.berkeley.edu/deeprlcourse/#lecture-videos)
 * [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
@@ -99,6 +100,7 @@
 
 
 ### 文章/总结
+* [:star:深度学习 CNN 实现](http://deepnotes.io/implementing-cnn)
 * [深度学习指南](http://yerevann.com/a-guide-to-deep-learning/)
 * [深度学习基础知识总结](https://nbviewer.jupyter.org/github/gongqingyi-github/MyPresentations/blob/master/DeepLearning/LearnOfDeepLearning.ipynb)
 * [BatchNorm-1](http://www.alexirpan.com/public/perils-batch-norm/batch_norm_appendix.html)
