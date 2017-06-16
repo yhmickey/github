@@ -1,7 +1,10 @@
 ## 云主机
 * [GCE](https://console.cloud.google.com/home/dashboard)
+
+
 ## 算法
 * [常见算法汇总](http://www.imooc.com/article/11159)
+* [LeetCode-Python](https://github.com/gongqingyi-github/lc-all-solutions)
 
 
 ## Python
@@ -11,6 +14,7 @@
 * [Python之旅](https://github.com/gongqingyi-github/explore-python)
 * [pandas-pivot](http://pbpython.com/pandas-pivot-table-explained.html)
 * [python数据结构与算法](https://github.com/gongqingyi/algorithms-1)
+
 ### Python开源库
 * [click](http://click.pocoo.org)
 
