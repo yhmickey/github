@@ -21,3 +21,4 @@
 * [数学资源](http://www.cengageasia.com/Browse/Higher_Education/Mathematics_and_Science/Mathematics)
 * [支持 latex 的思维导图](https://coggle.it)
 * [支持 latex 的思维导图--可连github](https://www.draw.io)
+* [MathML文档](http://www.intmath.com/help/send-math-email-syntax.php)
