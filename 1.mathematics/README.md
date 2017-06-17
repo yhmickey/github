@@ -2,6 +2,7 @@
 * [ 知乎专栏-分析](https://zhuanlan.zhihu.com/p/25933450)
 
 ## 代数学
+* [solutions-to-linear-algebras-done-right](http://linearalgebras.com/)
 
 ## 概率论
 * [Probability Cookbook](https://github.com/gongqingyi-github/stat-cookbook)
