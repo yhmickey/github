@@ -20,3 +20,4 @@
 * [数学编年史](http://www-history.mcs.st-andrews.ac.uk/Chronology/full.html)
 * [数学资源](http://www.cengageasia.com/Browse/Higher_Education/Mathematics_and_Science/Mathematics)
 * [支持 latex 的思维导图](https://coggle.it)
+* [支持 latex 的思维导图--可连github](https://www.draw.io)
