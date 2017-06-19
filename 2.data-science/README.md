@@ -98,6 +98,7 @@
 * [DCGAN-ACGAN-Keras](https://github.com/gongqingyi-github/DCGANs)
 * [Keras实现推荐系统](https://github.com/gongqingyi-github/keras-recommendation)
 * [Tensorflow-demo ipynb 集合](https://github.com/gongqingyi-github/TensorFlow-Tutorials)
+* [Keras-SELU](https://github.com/gongqingyi/SELU_Keras_Tutorial)
 
 
 ### 文章/总结
@@ -175,6 +176,7 @@
 * [OCR资源汇总](https://github.com/gongqingyi-github/awesome-ocr)
 * [QIX 机器学习&深度学习资料](https://github.com/gongqingyi-github/Qix)
 * [Machine-Learning-Plan-2017](https://www.analyticsvidhya.com/blog/2017/01/the-most-comprehensive-data-science-learning-plan-for-2017)
+* [Python-Tensorflow-OpenCV 计算视觉环境搭建](https://github.com/gongqingyi-github/Build-Deep-Learning-Env-with-Tensorflow-Python-OpenCV)
 
 ## Blog
 * [Poll](http://www.cnblogs.com/maybe2030/)
