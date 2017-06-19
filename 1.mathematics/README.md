@@ -2,6 +2,7 @@
 * [ 知乎专栏-分析](https://zhuanlan.zhihu.com/p/25933450)
 
 ## 代数学
+* [solutions-to-linear-algebras-done-right](http://linearalgebras.com/)
 
 ## 概率论
 * [Probability Cookbook](https://github.com/gongqingyi-github/stat-cookbook)
@@ -18,3 +19,6 @@
 ## 其它资源
 * [数学编年史](http://www-history.mcs.st-andrews.ac.uk/Chronology/full.html)
 * [数学资源](http://www.cengageasia.com/Browse/Higher_Education/Mathematics_and_Science/Mathematics)
+* [支持 latex 的思维导图](https://coggle.it)
+* [支持 latex 的思维导图--可连github](https://www.draw.io)
+* [MathML文档](http://www.intmath.com/help/send-math-email-syntax.php)
