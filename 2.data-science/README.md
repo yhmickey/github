@@ -99,6 +99,7 @@
 * [Keras实现推荐系统](https://github.com/gongqingyi-github/keras-recommendation)
 * [Tensorflow-demo ipynb 集合](https://github.com/gongqingyi-github/TensorFlow-Tutorials)
 * [Keras-SELU](https://github.com/gongqingyi/SELU_Keras_Tutorial)
+* [Tensorflow-Attention-is-all-you-need](https://github.com/gongqingyi-github/transformer)
 
 
 ### 文章/总结
