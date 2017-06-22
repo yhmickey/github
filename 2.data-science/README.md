@@ -131,6 +131,7 @@
 * [深度学习多任务学习](http://sebastianruder.com/multi-task/index.html)
 * [从零开发一个复杂深度学习模型](http://www.jianshu.com/p/20585e3b6d02)
 * [BatchNoram](https://mp.weixin.qq.com/s?__biz=MzIzNDQyNjI5Mg==&mid=2247484590&idx=1&sn=d11e94ac160d38dd797c45613f563a70)
+* [Word2Vector原理](https://zhuanlan.zhihu.com/p/27234078)
 
 ### 论文
 * [深度学习论文-RoadMap](https://github.com/gongqingyi-github/Deep-Learning-Papers-Reading-Roadmap)
