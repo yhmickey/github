@@ -6,7 +6,7 @@
 * [zipline源码](https://github.com/gongqingyi-github/zipline)
 * [zipline文档](http://www.zipline.io)
 * [Zipline源码分析](https://github.com/gongqingyi-github/inside-zipline)
-* [Zipline-A股](https://github.com/zhanghan1990/zipline-chinese)
+* [Zipline-A股](https://github.com/gongqingyi-github/zipline-chinese)
 * [Zipline-DataBoundle](https://github.com/gongqingyi-github/zipline_cn_databundle)
 * [Zipline-cn-index-data](https://github.com/gongqingyi-github/cn_index_benchmark_for_zipline)
 * [Quantopian](https://www.quantopian.com)
@@ -56,6 +56,9 @@
 * [在VPS上运行IBGateway](http://algoeye.com/blog/running-ib-gateway-on-vps/)
 * [神经网络金融时间序列](https://github.com/gongqingyi-github/Neural-Network-with-Financial-Time-Series-Data)
 * [seq2seq rnn](https://github.com/gongqingyi-github/seq2seq-signal-prediction)
+
+## 文章
+* [MachineLearning-Quant](https://zhuanlan.zhihu.com/p/27521935)
 
 ## 书籍
 * [股票大作手回忆录]()
