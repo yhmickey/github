@@ -152,6 +152,7 @@
 * [LSTM 网络相关文章汇总](http://machinelearningmastery.com/gentle-introduction-long-short-term-memory-networks-experts)
 * [:star:音乐风格迁移](http://imanmalik.com/cs/2017/06/05/neural-style.html)
 * [:star:音乐风格迁移git](https://github.com/gongqingyi-github/StyleNet)
+* [Kaggle 解决方案](http://ndres.me/kaggle-past-solutions/)
 
 
 ## 计算广告
