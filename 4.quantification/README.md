@@ -50,6 +50,11 @@
 * [Prophet首页](https://facebookincubator.github.io/prophet)
 * [Prophet源码](https://github.com/gongqingyi-github/prophet)
 
+
+## 机器学习
+* [DeepTrading](https://github.com/gongqingyi-github/Deep-Trading)
+* [Stock-Market-Reinforcement-Learning](https://github.com/gongqingyi-github/stock_market_reinforcement_learning)
+
 ## 示例/Demo
 * [Python金融数据分析](https://github.com/gongqingyi-github/dx)
 * [AlphaPy](https://github.com/gongqingyi-github/AlphaPyAlphaPy)
