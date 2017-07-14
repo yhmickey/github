@@ -36,6 +36,7 @@
 * [Quandl](https://www.quandl.com)
 * [Quantpedia](http://quantpedia.com/Links/HistoricalData)
 * [VIX波动率](https://www.cboe.com/products/vix-index-volatility/vix-options-and-futures/vix-index/vix-historical-data)
+* [CBOE-VIX 全部数据](http://www.cboe.com/publish/ScheduledTask/MktData/datahouse/vixcurrent.csv)
 * [Tushare A股数据](http://tushare.org/index.html)
 * [预测者网-交易数据](http://yucezhe.com/product?name=overview)
 * [预测者网-财务数据](http://yucezhe.com/product?name=financial-data-pro)
