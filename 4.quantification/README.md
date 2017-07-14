@@ -55,6 +55,7 @@
 * [DeepTrading](https://github.com/gongqingyi-github/Deep-Trading)
 * [Stock-Market-Reinforcement-Learning](https://github.com/gongqingyi-github/stock_market_reinforcement_learning)
 * [gym-trading](https://github.com/gongqingyi-github/gym-trading)
+* [Stork-RL](http://nbviewer.jupyter.org/github/joshnewnham/StockTradingUsingReinforcementLearning/blob/master/StockTradingUsingReinforcementLearning.ipynb)
 
 ## 示例/Demo
 * [Python金融数据分析](https://github.com/gongqingyi-github/dx)
