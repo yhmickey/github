@@ -54,7 +54,6 @@
 * [reinforcement-learning-Keras](https://github.com/gongqingyi-github/reinforcement-learning-1)
 * [DQN](https://mp.weixin.qq.com/s?__biz=MzA5MjM0MDQ1NA==&mid=2650012369&idx=1&sn=1a70b2911b1f5be9d0228c933fb9e23a)
 * [DQN-FlappyBird](https://github.com/gongqingyi-github/DeepLearningFlappyBird)
-* [RL-课件](http://www.cs.utexas.edu/~pstone/Courses/394Rfall16/resources/index.html)
 
 ### GAN
 * [各种GAN汇总](https://github.com/gongqingyi-github/generative-models)
