@@ -139,6 +139,7 @@
 * [从零开发一个复杂深度学习模型](http://www.jianshu.com/p/20585e3b6d02)
 * [BatchNoram](https://mp.weixin.qq.com/s?__biz=MzIzNDQyNjI5Mg==&mid=2247484590&idx=1&sn=d11e94ac160d38dd797c45613f563a70)
 * [Word2Vector原理-以及 Tensorflow实现](https://zhuanlan.zhihu.com/p/27234078)
+* [Tensorflow PCA t-SNE](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650728960&idx=1&sn=8b9e10a0c4170a136658262253c7b993)
 
 ### 论文
 * [深度学习论文-RoadMap](https://github.com/gongqingyi-github/Deep-Learning-Papers-Reading-Roadmap)
