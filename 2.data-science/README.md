@@ -17,6 +17,7 @@
 * [机器学习笔记-李航版](https://github.com/gongqingyi-github/ml)
 * [quick-ml-intro-sklearn](https://github.com/gongqingyi-github/quick-ml-intro)
 * [基于sklearn机器学习流水线框架](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur)
+* [Bayes Machine Learning](https://github.com/gongqingyi-github/PyCon2017)
 
 ## 深度学习
 ### 框架/开源库/工具
@@ -34,6 +35,7 @@
 * [深度学习工具库(通过配置文件跑模型)](https://github.com/polyaxon/polyaxon)
 * [中科院计算所-EasyML](https://github.com/gongqingyi-github/EasyML)
 * [machine-learning-python3](https://github.com/ethen8181/machine-learning)
+* [深度学习超参列表](https://github.com/gongqingyi-github/awesome-hyperparams)
 
 
 ### RL

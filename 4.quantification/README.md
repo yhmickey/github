@@ -64,6 +64,7 @@
 * [在VPS上运行IBGateway](http://algoeye.com/blog/running-ib-gateway-on-vps/)
 * [神经网络金融时间序列](https://github.com/gongqingyi-github/Neural-Network-with-Financial-Time-Series-Data)
 * [seq2seq rnn](https://github.com/gongqingyi-github/seq2seq-signal-prediction)
+* [Tensorflow for stock prediction](https://github.com/gongqingyi-github/Tensorflow-for-stock-prediction)
 
 ## 文章
 * [MachineLearning-Quant](https://zhuanlan.zhihu.com/p/27521935)
