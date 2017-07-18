@@ -69,6 +69,7 @@
 ## 文章
 * [MachineLearning-Quant](https://zhuanlan.zhihu.com/p/27521935)
 * [vix and more](http://vixandmore.blogspot.com)
+* [AI-金融相关](http://weibo.com/ttarticle/p/show?id=2309404130539593464011)
 
 ## 书籍
 * [股票大作手回忆录]()
