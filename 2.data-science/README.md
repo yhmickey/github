@@ -141,6 +141,7 @@
 * [Word2Vector原理-以及 Tensorflow实现](https://zhuanlan.zhihu.com/p/27234078)
 * [Tensorflow PCA t-SNE](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650728960&idx=1&sn=8b9e10a0c4170a136658262253c7b993)
 * [推荐系统相关-第四范式](https://mp.weixin.qq.com/s?__biz=MzA5NzkxMzg1Nw==&mid=2653162716&idx=1&sn=ace946097948b81bb34759ccbe0fae8a)
+* [KG](https://mp.weixin.qq.com/s?__biz=MzU2NjAxNDYwMg==&mid=2247483866&idx=1&sn=abd559c2bc416619fe3501209a5261da&key=8d037badb2e7b55b9cf49d9cacb5938cdf4bd9c787a19a5b8c592fb0c7b64a3bacd84a6d6099cd8f17a2aa08705b057af7afc2a5715bce5c92ff6e8a9609c36f6369a2b8755860e55e59122269694b4e&ascene=0&uin=MTYzNjk1Njc0MA%3D%3D)
 
 ### 论文
 * [深度学习论文-RoadMap](https://github.com/gongqingyi-github/Deep-Learning-Papers-Reading-Roadmap)
