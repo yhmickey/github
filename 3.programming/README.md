@@ -31,3 +31,4 @@
 * [位运算汇总](https://github.com/gongqingyi-github/awesome-bits)
 * [操作系统介绍-1页](http://littleosbook.github.io/)
 * [Yutube下载](http://en.savefrom.net)
+* [ 微信 API 封装 it-chat](https://mp.weixin.qq.com/s/FQXsBLlukmAln1l6EYVftw)
