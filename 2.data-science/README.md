@@ -196,6 +196,7 @@
 * [Python-Tensorflow-OpenCV 计算视觉环境搭建](https://github.com/gongqingyi-github/Build-Deep-Learning-Env-with-Tensorflow-Python-OpenCV)
 * [Kaggle 经验](https://zhuanlan.zhihu.com/p/27424282)
 * [ML-Cards](https://github.com/gongqingyi-github/GetCards)
+* [Open Data for Deeplearning](https://deeplearning4j.org/opendata)
 
 ## Blog
 * [Poll](http://www.cnblogs.com/maybe2030/)
