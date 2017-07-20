@@ -144,6 +144,7 @@
 * [KG](https://mp.weixin.qq.com/s?__biz=MzU2NjAxNDYwMg==&mid=2247483866&idx=1&sn=abd559c2bc416619fe3501209a5261da&key=8d037badb2e7b55b9cf49d9cacb5938cdf4bd9c787a19a5b8c592fb0c7b64a3bacd84a6d6099cd8f17a2aa08705b057af7afc2a5715bce5c92ff6e8a9609c36f6369a2b8755860e55e59122269694b4e&ascene=0&uin=MTYzNjk1Njc0MA%3D%3D)
 * [从非结构化文本中获取知识](https://blog.heuritech.com/2016/04/15/knowledge-extraction-from-unstructured-texts/)
 * [从非结构化文本中获取知识-中文](https://www.zhihu.com/question/59624229)
+* [HMM-CRF-百度文库](https://wenku.baidu.com/view/bbd57f82fc4ffe473268ab59.html)
 
 ### 论文
 * [深度学习论文-RoadMap](https://github.com/gongqingyi-github/Deep-Learning-Papers-Reading-Roadmap)
