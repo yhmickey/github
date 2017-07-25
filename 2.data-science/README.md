@@ -145,6 +145,7 @@
 * [从非结构化文本中获取知识](https://blog.heuritech.com/2016/04/15/knowledge-extraction-from-unstructured-texts/)
 * [从非结构化文本中获取知识-中文](https://www.zhihu.com/question/59624229)
 * [HMM-CRF-百度文库](https://wenku.baidu.com/view/bbd57f82fc4ffe473268ab59.html)
+* [ 神经网络问题排查](https://mp.weixin.qq.com/s/C87vBloGcdJZTB27Q6WzRQ)
 
 ### 论文
 * [深度学习论文-RoadMap](https://github.com/gongqingyi-github/Deep-Learning-Papers-Reading-Roadmap)
