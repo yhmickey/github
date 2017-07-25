@@ -65,12 +65,15 @@
 * [神经网络金融时间序列](https://github.com/gongqingyi-github/Neural-Network-with-Financial-Time-Series-Data)
 * [seq2seq rnn](https://github.com/gongqingyi-github/seq2seq-signal-prediction)
 * [Tensorflow for stock prediction](https://github.com/gongqingyi-github/Tensorflow-for-stock-prediction)
+* [LSTM-比特币价格预测](http://www.jakob-aungiers.com/articles/a/Multidimensional-LSTM-Networks-to-Predict-Bitcoin-Price)
+* [LSTM-比特币价格预测-git](https://github.com/jaungiers/Multidimensional-LSTM-BitCoin-Time-Series)
 
 ## 文章
 * [MachineLearning-Quant](https://zhuanlan.zhihu.com/p/27521935)
 * [vix and more](http://vixandmore.blogspot.com)
 * [AI-金融相关](http://weibo.com/ttarticle/p/show?id=2309404130539593464011)
 * [波动率相关产品](https://sixfigureinvesting.com/2010/12/volatility-tickers/)
+
 
 ## 书籍
 * [股票大作手回忆录]()
