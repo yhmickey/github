@@ -32,3 +32,4 @@
 * [操作系统介绍-1页](http://littleosbook.github.io/)
 * [Yutube下载](http://en.savefrom.net)
 * [ 微信 API 封装 it-chat](https://mp.weixin.qq.com/s/FQXsBLlukmAln1l6EYVftw)
+* [正则表达式](http://www.jb51.net/shouce/jquery1.82/regexp.html)
