@@ -146,6 +146,7 @@
 * [从非结构化文本中获取知识-中文](https://www.zhihu.com/question/59624229)
 * [HMM-CRF-百度文库](https://wenku.baidu.com/view/bbd57f82fc4ffe473268ab59.html)
 * [ 神经网络问题排查](https://mp.weixin.qq.com/s/C87vBloGcdJZTB27Q6WzRQ)
+* [deeplearning-NLP 最佳实践](http://ruder.io/deep-learning-nlp-best-practices/)
 
 ### 论文
 * [深度学习论文-RoadMap](https://github.com/gongqingyi-github/Deep-Learning-Papers-Reading-Roadmap)
