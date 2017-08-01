@@ -202,6 +202,7 @@
 * [Kaggle 经验](https://zhuanlan.zhihu.com/p/27424282)
 * [ML-Cards](https://github.com/gongqingyi-github/GetCards)
 * [Open Data for Deeplearning](https://deeplearning4j.org/opendata)
+* [成为一名数据科学家-quora](https://www.quora.com/How-can-I-become-a-data-scientist-1?redirected_qid=59455)
 
 ## Blog
 * [Poll](http://www.cnblogs.com/maybe2030/)
