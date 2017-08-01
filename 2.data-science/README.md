@@ -186,6 +186,7 @@
 * [深度学习Slide and notebook](https://m2dsupsdlclass.github.io/lectures-labs)
 * [深度学习基础5课程](https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247485456&idx=1&sn=f1650723dbbe72ee1b87fd91ca3e177a)
 * [深度学习和增强学习slide](https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/slides)
+* [统计学习例子代码-基于 SKlearn](https://github.com/gongqingyi-github/statlearning-notebooks)
 
 ### 书籍
 * [deeplearningbook-chinese](https://github.com/gongqingyi-github/deeplearningbook-chinese)
