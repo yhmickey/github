@@ -19,6 +19,7 @@
 * [基于sklearn机器学习流水线框架](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur)
 * [Bayes Machine Learning](https://github.com/gongqingyi-github/PyCon2017)
 * [高斯混合](https://github.com/gongqingyi-github/Gaussian_Mixture_Models)
+* [PyMC 概率密度示意图](http://docs.pymc.io/en/latest/api/distributions/continuous.html)
 
 ## 深度学习
 ### 框架/开源库/工具
