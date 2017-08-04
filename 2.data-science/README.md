@@ -174,6 +174,8 @@
 ## 计算广告
 * [RTP-Papers](https://github.com/gongqingyi-github/rtb-papers)
 
+* [CNN-NLP](https://github.com/gongqingyi-github/cnn-text-classification-tf)
+
 ### 课程
 * [TensorFlow and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
 * [CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si)
