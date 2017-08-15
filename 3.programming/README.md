@@ -18,6 +18,7 @@
 
 ### Python开源库
 * [click](http://click.pocoo.org)
+* [Aho-Corasick](https://github.com/gongqingyi-github/pyahocorasick)
 
 ## C/C++
 
