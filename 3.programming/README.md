@@ -34,3 +34,4 @@
 * [Yutube下载](http://en.savefrom.net)
 * [ 微信 API 封装 it-chat](https://mp.weixin.qq.com/s/FQXsBLlukmAln1l6EYVftw)
 * [正则表达式](http://www.jb51.net/shouce/jquery1.82/regexp.html)
+* [Google编程规范](http://zh-google-styleguide.readthedocs.io/en/latest/contents)
