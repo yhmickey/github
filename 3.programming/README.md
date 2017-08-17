@@ -15,6 +15,8 @@
 * [pandas-pivot](http://pbpython.com/pandas-pivot-table-explained.html)
 * [python数据结构与算法](https://github.com/gongqingyi/algorithms-1)
 * [Python-Data-Science-Handbook](https://github.com/gongqingyi-github/PythonDataScienceHandbook)
+* [python3-cookbook](http://python3-cookbook.readthedocs.io/zh_CN/latest/index.html)
+* [python3-cookbook-git](https://github.com/gongqingyi-github/python3-cookbook)
 
 ### Python开源库
 * [click](http://click.pocoo.org)
