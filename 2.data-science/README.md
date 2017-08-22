@@ -214,3 +214,4 @@
 * [Poll](http://www.cnblogs.com/maybe2030/)
 * [The Neural Perspective](https://theneuralperspective.com)
 * [WTF](http://blog.topspeedsnail.com)
+* [shuokay](http://shuokay.com)
