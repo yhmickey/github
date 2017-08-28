@@ -52,6 +52,8 @@
 * [Prophet源码](https://github.com/gongqingyi-github/prophet)
 * [菠菜-量化](https://github.com/philsong)
 * [easyIbPy](https://github.com/gongqingyi-github/ezibpy)
+* [qtpylib-doc](http://qtpylib.io/docs/latest/index.html)
+* [qtpylib](https://github.com/gongqingyi-github/qtpylib)
 
 
 ## 机器学习
