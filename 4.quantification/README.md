@@ -50,6 +50,7 @@
 * [QuantLib](https://github.com/gongqingyi-github/QuantLib)
 * [Prophet首页](https://facebookincubator.github.io/prophet)
 * [Prophet源码](https://github.com/gongqingyi-github/prophet)
+* [菠菜-量化](https://github.com/philsong)
 
 
 ## 机器学习
