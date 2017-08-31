@@ -6,6 +6,7 @@
 
 ## 概率论
 * [Probability Cookbook](https://github.com/gongqingyi-github/stat-cookbook)
+* [随机积分](https://almostsure.wordpress.com/stochastic-calculus)
 
 ## 最优化
 
