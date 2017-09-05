@@ -24,6 +24,7 @@
 ## 深度学习
 ### 框架/开源库/工具
 * [Tensorflow](https://www.tensorflow.org)
+* [★Tensorflow学习] (https://github.com/gongqingyi-github/Awesome-TensorFlow-Chinese)
 * [Keras-en](https://keras.io)
 * [Keras-cn](http://keras-cn.readthedocs.io)
 * [PyTorch中文文档](http://pytorch-cn.readthedocs.io/zh/latest)
