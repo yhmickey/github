@@ -211,6 +211,11 @@
 * [Open Data for Deeplearning](https://deeplearning4j.org/opendata)
 * [成为一名数据科学家-quora](https://www.quora.com/How-can-I-become-a-data-scientist-1?redirected_qid=59455)
 
+## Kaggle
+* [Kaggle自动化流程库](https://github.com/gongqingyi-github/Kaggle_CrowdFlower)
+* [Kaggle 经验](https://zhuanlan.zhihu.com/p/26820998)
+
+
 ## Blog
 * [Poll](http://www.cnblogs.com/maybe2030/)
 * [The Neural Perspective](https://theneuralperspective.com)
