@@ -40,7 +40,7 @@
 * [machine-learning-python3](https://github.com/ethen8181/machine-learning)
 * [深度学习超参列表](https://github.com/gongqingyi-github/awesome-hyperparams)
 * [Deep-Learning-with-Keras](https://github.com/gongqingyi-github/Deep-Learning-with-Keras)
-
+* [<<深度学习>>笔记](https://github.com/gongqingyi-github/simplified-deeplearning)
 
 ### RL
 * [DRL-CS294](http://rll.berkeley.edu/deeprlcourse/#lecture-videos)
