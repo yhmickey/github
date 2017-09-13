@@ -13,6 +13,7 @@
 * [使用sklearn集成学习-1](http://www.cnblogs.com/jasonfreak/p/5657196.html)
 * [使用sklearn集成学习-2](http://www.cnblogs.com/jasonfreak/p/5720137.html)
 * [sklearn实践](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)
+* [机器学习-notes](https://runze.github.io/2014/11/15/notes-to-machine-learning/#linear-classificatoin-models)
 * [CAML机器学习基础](http://www.52caml.com/home)
 * [梯度下降算法概览](http://sebastianruder.com/optimizing-gradient-descent/)
 * [机器学习笔记-李航版](https://github.com/gongqingyi-github/ml)
