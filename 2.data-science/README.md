@@ -64,6 +64,10 @@
 * [DQN-FlappyBird](https://github.com/gongqingyi-github/DeepLearningFlappyBird)
 * [Tensorflow RF API](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650728960&idx=2&sn=d9830cbd45e152460ceae074f68444e1)
 
+### NLP
+* [深度学习-自然语言处理资源列表](https://github.com/gongqingyi-github/awesome-dl4nlp)
+
+
 ### GAN
 * [各种GAN汇总](https://github.com/gongqingyi-github/generative-models)
 * [GAN例子-tf](https://github.com/gongqingyi-github/tensorflow-101)
