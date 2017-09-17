@@ -66,6 +66,8 @@
 
 ### NLP
 * [深度学习-自然语言处理资源列表](https://github.com/gongqingyi-github/awesome-dl4nlp)
+* [tensorflow-nmt](https://github.com/gongqingyi-github/nmt)
+* [2017-神经翻译](https://www.zhihu.com/question/65340310)
 
 
 ### GAN
