@@ -37,6 +37,7 @@
 * [位运算汇总](https://github.com/gongqingyi-github/awesome-bits)
 * [操作系统介绍-1页](http://littleosbook.github.io/)
 * [Yutube下载](http://en.savefrom.net)
+* [Yutube字幕下载](http://downsub.com/)
 * [ 微信 API 封装 it-chat](https://mp.weixin.qq.com/s/FQXsBLlukmAln1l6EYVftw)
 * [正则表达式](http://www.jb51.net/shouce/jquery1.82/regexp.html)
 * [Google编程规范](http://zh-google-styleguide.readthedocs.io/en/latest/contents)
