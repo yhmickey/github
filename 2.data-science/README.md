@@ -31,6 +31,7 @@
 * [Keras-cn](http://keras-cn.readthedocs.io)
 * [PyTorch中文文档](http://pytorch-cn.readthedocs.io/zh/latest)
 * [MXNet](http://mxnet.io)
+* [Gluon](https://github.com/gongqingyi-github/mxnet-the-straight-dope)
 * [TensorLayer](http://tensorlayer.readthedocs.io/en/latest/index.html)
 * [Paddle](https://github.com/gongqingyi-github/Paddle)
 * [Edward主页](http://edwardlib.org/zoo)
