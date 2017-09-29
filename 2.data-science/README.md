@@ -73,6 +73,7 @@
 * [cnn-文本分类-doc](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 * [:star:文本建模相关11个 model](https://github.com/gongqingyi-github/text_classification)
 * [文本深度学习建模-知乎](https://www.zhihu.com/question/58863937)
+* [文本深度学习建模综述-知乎](https://zhuanlan.zhihu.com/p/29076736)
 
 
 ### GAN
