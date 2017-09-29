@@ -71,6 +71,7 @@
 * [2017-神经翻译](https://www.zhihu.com/question/65340310)
 * [cnn-文本分类-git](https://github.com/gongqingyi-github/cnn-text-classification-tf)
 * [cnn-文本分类-doc](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
+* [:star:文本建模相关11个 model](https://github.com/gongqingyi-github/text_classification)
 
 
 ### GAN
