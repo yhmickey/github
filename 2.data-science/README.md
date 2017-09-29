@@ -69,7 +69,8 @@
 * [深度学习-自然语言处理资源列表](https://github.com/gongqingyi-github/awesome-dl4nlp)
 * [tensorflow-nmt](https://github.com/gongqingyi-github/nmt)
 * [2017-神经翻译](https://www.zhihu.com/question/65340310)
-* [cnn-文本分类](https://github.com/gongqingyi-github/cnn-text-classification-tf)
+* [cnn-文本分类-git](https://github.com/gongqingyi-github/cnn-text-classification-tf)
+* [cnn-文本分类-doc](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 
 
 ### GAN
@@ -188,7 +189,7 @@
 ## 计算广告
 * [RTP-Papers](https://github.com/gongqingyi-github/rtb-papers)
 
-* [CNN-NLP](https://github.com/gongqingyi-github/cnn-text-classification-tf)
+
 
 ### 课程
 * [TensorFlow and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
