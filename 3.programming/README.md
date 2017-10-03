@@ -31,6 +31,8 @@
 
 ## Database
 
+## 设计模式
+* [图说设计模式](http://design-patterns.readthedocs.io/zh_CN/latest/index.html)
 ## Other
 * [git-book](https://git-scm.com/book/en/v2)
 * [各种语言开源库汇总](https://github.com/gongqingyi-github/awesomo)
