@@ -79,6 +79,7 @@
 * [文本深度学习建模综述-知乎](https://zhuanlan.zhihu.com/p/29076736)
 * [文本分类总结](https://zhuanlan.zhihu.com/p/25928551)
 * [:star:Keras 文本分类](https://zhuanlan.zhihu.com/p/29201491)
+* [cs224d-NLP](http://cs224d.stanford.edu/syllabus.html)
 
 
 ### GAN
