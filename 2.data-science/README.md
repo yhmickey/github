@@ -48,6 +48,7 @@
 * [<<深度学习>>笔记](https://github.com/gongqingyi-github/simplified-deeplearning)
 
 ### RL
+* [:star:DRL论文](https://github.com/gongqingyi-github/deep-reinforcement-learning-papers)
 * [DRL-CS294](http://rll.berkeley.edu/deeprlcourse/#lecture-videos)
 * [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 * [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
