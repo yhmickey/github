@@ -19,6 +19,7 @@
 * [python3-cookbook](http://python3-cookbook.readthedocs.io/zh_CN/latest/index.html)
 * [python3-cookbook-git](https://github.com/gongqingyi-github/python3-cookbook)
 * [Python-基础算法](http://pygorithm.readthedocs.io/en/latest/index.html)
+* [:star:计算机程序的构造和解释](http://composingprograms.com/pages/11-getting-started.html)
 
 
 ### Python开源库
