@@ -12,6 +12,8 @@
 * [sklearn](http://scikit-learn.org/stable)
 * [使用sklearn集成学习-1](http://www.cnblogs.com/jasonfreak/p/5657196.html)
 * [使用sklearn集成学习-2](http://www.cnblogs.com/jasonfreak/p/5720137.html)
+* [sklearn-数据挖掘-1](http://www.cnblogs.com/jasonfreak/p/5448462.html)
+* [sklearn-数据挖掘-2](http://www.cnblogs.com/jasonfreak/p/5448385.html)
 * [sklearn实践](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)
 * [机器学习-notes](https://runze.github.io/2014/11/15/notes-to-machine-learning/#linear-classificatoin-models)
 * [CAML机器学习基础](http://www.52caml.com/home)
