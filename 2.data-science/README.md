@@ -71,6 +71,7 @@
 * [Tensorflow RF API](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650728960&idx=2&sn=d9830cbd45e152460ceae074f68444e1)
 
 ### NLP
+* [2017年Attention Model汇总](https://zhuanlan.zhihu.com/p/29918534)
 * [深度学习-自然语言处理资源列表](https://github.com/gongqingyi-github/awesome-dl4nlp)
 * [tensorflow-nmt](https://github.com/gongqingyi-github/nmt)
 * [2017-神经翻译](https://www.zhihu.com/question/65340310)
