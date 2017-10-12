@@ -86,6 +86,7 @@
 
 
 ### GAN
+* [GAN-Keras](https://github.com/eriklindernoren/Keras-GAN)
 * [各种GAN汇总](https://github.com/gongqingyi-github/generative-models)
 * [GAN例子-tf](https://github.com/gongqingyi-github/tensorflow-101)
 * [How to train GAN](https://github.com/gongqingyi-github/ganhacks)
