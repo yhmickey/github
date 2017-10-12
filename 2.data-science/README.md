@@ -29,6 +29,7 @@
 
 ## 深度学习
 ### 框架/开源库/工具
+* [deeplearning for beginners](http://randomekek.github.io/deep/deeplearning.html)
 * [Tensorflow](https://www.tensorflow.org)
 * [:star:Tensorflow学习](https://github.com/gongqingyi-github/Awesome-TensorFlow-Chinese)
 * [Keras-en](https://keras.io)
