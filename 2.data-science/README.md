@@ -73,6 +73,7 @@
 
 ### NLP
 * [2017年Attention Model汇总](https://zhuanlan.zhihu.com/p/29918534)
+* [NLP资源大全](https://github.com/gongqingyi-github/nlp_tasks)
 * [深度学习-自然语言处理资源列表](https://github.com/gongqingyi-github/awesome-dl4nlp)
 * [tensorflow-nmt](https://github.com/gongqingyi-github/nmt)
 * [2017-神经翻译](https://www.zhihu.com/question/65340310)
