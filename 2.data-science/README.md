@@ -239,7 +239,7 @@
 * [Open Data for Deeplearning](https://deeplearning4j.org/opendata)
 * [成为一名数据科学家-quora](https://www.quora.com/How-can-I-become-a-data-scientist-1?redirected_qid=59455)
 * [深度学习资源库列表](https://oxozle.com/awetop/josephmisiti-awesome-machine-learning?overall=1?fm=sina)
-
+* [python-数据科学-cheatsheet](https://www.datacamp.com/)
 
 ## Kaggle
 * [Kaggle自动化流程库](https://github.com/gongqingyi-github/Kaggle_CrowdFlower)
