@@ -83,7 +83,7 @@
 * [文本深度学习建模-知乎](https://www.zhihu.com/question/58863937)
 * [文本深度学习建模综述-知乎](https://zhuanlan.zhihu.com/p/29076736)
 * [文本分类总结](https://zhuanlan.zhihu.com/p/25928551)
-* [:star:Keras 文本分类](https://zhuanlan.zhihu.com/p/29201491)
+* [:star:Keras 文本分类-代码示例](https://zhuanlan.zhihu.com/p/29201491)
 * [CNN在NLP领域的实践](http://blog.csdn.net/diye2008/article/details/53105652?locationNum=11&fps=1)
 * [cs224d-NLP](http://cs224d.stanford.edu/syllabus.html)
 
