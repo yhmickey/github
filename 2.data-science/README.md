@@ -141,6 +141,7 @@
 * [Tensorflow-World](https://github.com/gongqingyi-github/TensorFlow-World)
 * [Keras-FCN](https://github.com/gongqingyi-github/Keras-FCN)
 * [DeepLearning-with-Python](https://github.com/gongqingyi-github/deep-learning-with-python-notebooks)
+* [Keras-CNN-识别验证码](https://zhuanlan.zhihu.com/p/26078299)
 
 
 ### 文章/总结
