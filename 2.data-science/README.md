@@ -25,7 +25,7 @@
 * [高斯混合](https://github.com/gongqingyi-github/Gaussian_Mixture_Models)
 * [PyMC 概率密度示意图](http://docs.pymc.io/en/latest/api/distributions/continuous.html)
 * [:star: K 折交叉验证-例子代码](https://zhuanlan.zhihu.com/p/25637642)
-
+* [集成学习](https://mp.weixin.qq.com/s/zEgan2w9QjAtt0ylzzwHPw)
 
 ## 深度学习
 ### 框架/开源库/工具
