@@ -40,6 +40,9 @@
 * [Tushare A股数据](http://tushare.org/index.html)
 * [预测者网-交易数据](http://yucezhe.com/product?name=overview)
 * [预测者网-财务数据](http://yucezhe.com/product?name=financial-data-pro)
+* [股票代码-NASDA](http://www.nasdaq.com/screening/companies-by-industry.aspx?exchange=NASDAQ&render=download)
+* [股票代码-NYSE](http://www.nasdaq.com/screening/companies-by-industry.aspx?exchange=NYSE&render=download)
+* [股票代码-]
 
 ## Python库
 * [quant开源库汇总](https://github.com/gongqingyi-github/awesome-quant-1)
