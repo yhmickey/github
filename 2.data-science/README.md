@@ -9,6 +9,7 @@
 
 
 ## 机器学习
+* [吴恩达机器学习笔记](https://github.com/gongqingyi-github/notes-LSJU-machine-learning)
 * [sklearn](http://scikit-learn.org/stable)
 * [使用sklearn集成学习-1](http://www.cnblogs.com/jasonfreak/p/5657196.html)
 * [使用sklearn集成学习-2](http://www.cnblogs.com/jasonfreak/p/5720137.html)
