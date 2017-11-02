@@ -32,7 +32,7 @@
 
 ## 历史数据
 * [PITrading](http://pitrading.com/historical-market-data.html)
-* [Yahoo财经](http://finance.yahoo.com/quote/UVXY/history?p=UVXY)
+* [Yahoo财经](https://github.com/gongqingyi-github/get-yahoo-quotes-python)
 * [Quandl](https://www.quandl.com)
 * [Quantpedia](http://quantpedia.com/Links/HistoricalData)
 * [VIX波动率](https://www.cboe.com/products/vix-index-volatility/vix-options-and-futures/vix-index/vix-historical-data)
