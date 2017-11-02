@@ -42,7 +42,8 @@
 * [预测者网-财务数据](http://yucezhe.com/product?name=financial-data-pro)
 * [股票代码-NASDA](http://www.nasdaq.com/screening/companies-by-industry.aspx?exchange=NASDAQ&render=download)
 * [股票代码-NYSE](http://www.nasdaq.com/screening/companies-by-industry.aspx?exchange=NYSE&render=download)
-* [雪球](https://xueqiu.com/v4/stock/quote.json?code=UVXY&_=1460380110118)
+* [雪球股票信息](https://xueqiu.com/v4/stock/quote.json?code=UVXY&_=1460380110118)
+* [雪球历史数据](https://xueqiu.com/stock/forchartk/stocklist.json?symbol=TSLA&period=1day&type=normal&end=1500000000000&_=1509658423323)
 * [知乎回答历史数据](https://www.zhihu.com/question/22145919)
 
 ## Python库
