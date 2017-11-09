@@ -45,7 +45,7 @@
 * [雪球实时数据接口](https://xueqiu.com/v4/stock/quotec.json?code=TSLA)
 * [雪球历史数据1分钟增量接口](https://xueqiu.com/stock/forchart/stocklist.json?symbol=TSLA&period=1d&one_min=1)
 * [雪球股票信息](https://xueqiu.com/v4/stock/quote.json?code=UVXY&_=1460380110118)
-* [雪球历史数据](https://xueqiu.com/stock/forchartk/stocklist.json?symbol=TSLA&period=1day&type=normal&end=1500000000000&_=1509658423323)
+* [雪球历史数据](https://xueqiu.com/stock/forchartk/stocklist.json?symbol=TSLA&period=1day&type=normal&end=1500000000000&begin=1497888000000&_=1509658423323)
 * [知乎回答历史数据](https://www.zhihu.com/question/22145919)
 * [知乎回答雪球历史数据](https://www.zhihu.com/question/29311492)
 * [top-100ETF](http://etfdb.com/compare/volume/)
