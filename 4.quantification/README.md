@@ -43,7 +43,7 @@
 * [股票代码-NASDA](http://www.nasdaq.com/screening/companies-by-industry.aspx?exchange=NASDAQ&render=download)
 * [股票代码-NYSE](http://www.nasdaq.com/screening/companies-by-industry.aspx?exchange=NYSE&render=download)
 * [美股涨幅top100](https://xueqiu.com/stock/cata/stocklist.json?page=1&size=100&order=desc&orderby=percent&type=0,1,2,3&_=1510284598566)
-* [美股跌幅top100](https://xueqiu.com/stock/cata/stocklist.json?page=1&size=100&order=des&orderby=percent&type=0,1,2,3&_=1510284598566)
+* [美股跌幅top100](https://xueqiu.com/stock/cata/stocklist.json?page=1&size=100&order=asc&orderby=percent&type=0,1,2,3&_=1510284598566)
 * [雪球实时数据接口](https://xueqiu.com/v4/stock/quotec.json?code=TSLA)
 * [雪球历史数据1分钟增量接口](https://xueqiu.com/stock/forchart/stocklist.json?symbol=TSLA&period=1d&one_min=1)
 * [雪球股票信息](https://xueqiu.com/v4/stock/quote.json?code=UVXY&_=1460380110118)
