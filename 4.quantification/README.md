@@ -73,7 +73,7 @@
 * [gym-trading](https://github.com/gongqingyi-github/gym-trading)
 * [Stork-RL](http://nbviewer.jupyter.org/github/joshnewnham/StockTradingUsingReinforcementLearning/blob/master/StockTradingUsingReinforcementLearning.ipynb)
 * [量化策略-RL](https://zhuanlan.zhihu.com/p/24913014)
-* [基于IB-API + tensorflow 的RL框架](https://github.com/deependersingla/deep_trader)
+* [基于IB-API + tensorflow 的RL框架](https://github.com/gongqingyi-github/deep_trader)
 
 ## 示例/Demo
 * [Python金融数据分析](https://github.com/gongqingyi-github/dx)
