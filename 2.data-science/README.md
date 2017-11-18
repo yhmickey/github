@@ -73,6 +73,7 @@
 * [DQN-FlappyBird](https://github.com/gongqingyi-github/DeepLearningFlappyBird)
 * [Tensorflow RF API](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650728960&idx=2&sn=d9830cbd45e152460ceae074f68444e1)
 * [:star:增强学习导论-Jupyter代码](https://github.com/gongqingyi-github/intro-to-rl)
+* [增强学习资源](https://zhuanlan.zhihu.com/p/20885568)
 
 ### NLP
 * [2017年Attention Model汇总](https://zhuanlan.zhihu.com/p/29918534)
