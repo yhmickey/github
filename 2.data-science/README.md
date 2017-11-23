@@ -161,6 +161,7 @@
 * [LSTM 反向传播推导-tf](http://wiseodd.github.io/techblog/2016/08/12/lstm-backprop)
 * [RNN介绍-知乎专栏](https://zhuanlan.zhihu.com/p/24720659)
 * [RNN-LSTM](http://yugnaynehc.github.io/2017/01/03/understanding-lstm-networks)
+* [Understanding-LSTMs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [神经网络-增强学习](http://www.cnblogs.com/Leo_wl/p/5852010.html)
 * [图解tensorflow源码](https://github.com/gongqingyi-github/tensorflow)
 * [LSTM时间序列分析](http://www.jakob-aungiers.com/articles/a/LSTM-Neural-Network-for-Time-Series-Prediction)
