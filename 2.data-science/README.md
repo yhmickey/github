@@ -92,6 +92,7 @@
 * [cs224d-NLP](http://cs224d.stanford.edu/syllabus.html)
 * [Neural Networds for NLP](http://phontron.com/class/nn4nlp2017/schedule.html)
 * [seq2seq](https://github.com/gongqingyi-github/seq2seq)
+* [:star:introduction-text-summarization](https://machinelearningmastery.com/gentle-introduction-text-summarization)
 
 ### GAN
 * [GAN-Keras](https://github.com/gongqingyi-github/Keras-GAN)
