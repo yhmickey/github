@@ -150,6 +150,7 @@
 * [Keras-FCN](https://github.com/gongqingyi-github/Keras-FCN)
 * [DeepLearning-with-Python](https://github.com/gongqingyi-github/deep-learning-with-python-notebooks)
 * [Keras-CNN-识别验证码](https://zhuanlan.zhihu.com/p/26078299)
+* [时间序列学习-state-of-art](https://github.com/gongqingyi/Time-series---deep-learning---state-of-the-art)
 
 
 ### 文章/总结
