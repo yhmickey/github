@@ -1,7 +1,7 @@
 ## 云主机
 * [GCE](https://console.cloud.google.com/home/dashboard)
 * [35.185.135.141]()
-
+* [清华开源镜像](https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/mac/mactex/)
 
 ## 算法
 * [常见算法汇总](http://www.imooc.com/article/11159)
