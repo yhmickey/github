@@ -94,7 +94,7 @@
 * [seq2seq](https://github.com/gongqingyi-github/seq2seq)
 * [:star:introduction-text-summarization](https://machinelearningmastery.com/gentle-introduction-text-summarization)
 * [:star:4 种 encoder-decoder](https://github.com/gongqingyi/encoder_decoder)
-* [:star:seq2seq](https://github.com/gongqingyi/seq2seq)
+* [:star:seq2seq](https://github.com/gongqingyi-github/seq2seq-1)
 
 ### GAN
 * [GAN-Keras](https://github.com/gongqingyi-github/Keras-GAN)
