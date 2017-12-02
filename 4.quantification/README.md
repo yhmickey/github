@@ -51,6 +51,7 @@
 * [知乎回答历史数据](https://www.zhihu.com/question/22145919)
 * [知乎回答雪球历史数据](https://www.zhihu.com/question/29311492)
 * [top-100ETF](http://etfdb.com/compare/volume/)
+* [华尔街见闻快讯数据接口](https://api-prod.wallstreetcn.com/apiv1/content/lives?channel=us-stock-channel&cursor=1612147176&limit=20)
 
 ## Python库
 * [quant开源库汇总](https://github.com/gongqingyi-github/awesome-quant-1)
