@@ -153,6 +153,7 @@
 * [Keras-CNN-识别验证码](https://zhuanlan.zhihu.com/p/26078299)
 * [时间序列学习-state-of-art](https://github.com/gongqingyi/Time-series---deep-learning---state-of-the-art)
 * [lstm-batching可视化](https://github.com/gongqingyi-github/understanding-pytorch-batching-lstm)
+* [:star:Deep-Learning-with-Keras](https://github.com/gongqingyi-github/Deep-Learning-with-Keras)
 
 ### 文章/总结
 * [:star::star::star:零基础深度学习](https://www.zybuluo.com/hanbingtao/note/433855)
