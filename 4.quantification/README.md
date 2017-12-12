@@ -16,6 +16,7 @@
 * [pyalgotrade文档](http://gbeced.github.io/pyalgotrade)
 * [backtrader源码](https://github.com/gongqingyi-github/backtrader)
 * [backtrader文档](https://www.backtrader.com/docu/index.html)
+* [豆瓣-demo](https://www.douban.com/note/575981114/)
 * [QuantAxis](https://github.com/gongqingyi-github/QUANTAXIS)
 * [Bulbea深度学习](https://github.com/gongqingyi-github/bulbea)
 * [Lean](https://github.com/gongqingyi-github/Lean)
