@@ -51,6 +51,7 @@
 * [深度学习超参列表](https://github.com/gongqingyi-github/awesome-hyperparams)
 * [Deep-Learning-with-Keras](https://github.com/gongqingyi-github/Deep-Learning-with-Keras)
 * [<<深度学习>>笔记](https://github.com/gongqingyi-github/simplified-deeplearning)
+* [:star::star::star:Keras分类模型大全](https://github.com/gongqingyi-github/Keras-Classification-Models)
 
 ### RL
 * [:star:DRL论文](https://github.com/gongqingyi-github/deep-reinforcement-learning-papers)
