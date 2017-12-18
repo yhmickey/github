@@ -9,6 +9,7 @@
 
 
 ## 机器学习
+* [:star:machine-learning-cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
 * [线性代数笔记](https://github.com/gongqingyi-github/notes-linear-algebra)
 * [吴恩达机器学习笔记](https://github.com/gongqingyi-github/notes-LSJU-machine-learning)
 * [sklearn](http://scikit-learn.org/stable)
