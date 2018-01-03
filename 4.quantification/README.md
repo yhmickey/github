@@ -7,6 +7,7 @@
 * [zipline文档](http://www.zipline.io)
 * [Zipline源码分析](https://github.com/gongqingyi-github/inside-zipline)
 * [Zipline-A股](https://github.com/gongqingyi-github/zipline-chinese)
+* [Zipline-live](http://www.zipline-live.io/tutorial)
 * [Zipline-DataBoundle](https://github.com/gongqingyi-github/zipline_cn_databundle)
 * [Zipline-cn-index-data](https://github.com/gongqingyi-github/cn_index_benchmark_for_zipline)
 * [Quantopian](https://www.quantopian.com)
