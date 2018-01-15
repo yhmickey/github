@@ -16,6 +16,7 @@
 ## 示例/Demo
 * [2d/3d动画](http://www.josleys.com/index.php)
 * [mandelbrot分形](https://github.com/gongqingyi-github/mandelbrot)
+* [python-3d](https://github.com/ryu577/pyray)
 
 ## 书籍收藏
 * []()
