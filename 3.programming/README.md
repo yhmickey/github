@@ -26,6 +26,7 @@
 ### Python开源库
 * [click](http://click.pocoo.org)
 * [Aho-Corasick](https://github.com/gongqingyi-github/pyahocorasick)
+* [pymysqlpool](https://github.com/gongqingyi-github/pymysqlpool)
 
 ## C/C++
 
