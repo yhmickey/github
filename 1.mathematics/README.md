@@ -30,3 +30,4 @@
 * [数学在线书籍](http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
 * [Springer-Magh](http://vdisk.weibo.com/s/C_qYDfSg1McIi?category_id=6&parents_ref=C_qYDfSg1Mc2o)
 * [MathBlog: 数学书列表](https://mathblog.com/mathematics-books/)
+* [矩阵微分](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html)
