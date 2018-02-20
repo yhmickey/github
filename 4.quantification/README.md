@@ -58,6 +58,7 @@
 * [top-100ETF](http://etfdb.com/compare/volume/)
 * [华尔街见闻快讯数据接口](https://api-prod.wallstreetcn.com/apiv1/content/lives?channel=us-stock-channel&cursor=1612147176&limit=20)
 * [雅虎财经1分钟数据接口](https://query1.finance.yahoo.com/v8/finance/chart/SVXY?symbol=SVXY&period1=1511894160&period2=1511894580&interval=1m)
+* [收费数据](http://www.activetick.com/activetick/contents/Default.aspx)
 
 ## Python库
 * [quant开源库汇总](https://github.com/gongqingyi-github/awesome-quant-1)
