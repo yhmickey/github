@@ -225,6 +225,7 @@
 
 
 ### 课程
+* [谷歌机器学习基础课程](https://developers.google.cn/machine-learning/crash-course/ml-intro)
 * [TensorFlow and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
 * [CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si)
 * [CS 224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n)
