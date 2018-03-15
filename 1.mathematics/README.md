@@ -17,6 +17,7 @@
 * [2d/3d动画](http://www.josleys.com/index.php)
 * [mandelbrot分形](https://github.com/gongqingyi-github/mandelbrot)
 * [python-3d](https://github.com/ryu577/pyray)
+* [3b1b数学动画引擎](https://github.com/gongqingyi-github/manim)
 
 ## 书籍收藏
 * []()
