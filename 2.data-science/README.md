@@ -79,7 +79,7 @@
 * [deepreinforcementlearning教程(java)](https://deeplearning4j.org/deepreinforcementlearning)
 
 ### NLP
-* [:star:](https://github.com/gongqingyi-github/text_classification)
+* [:star:text_classification模型大全](https://github.com/gongqingyi-github/text_classification)
 * [FlashText](https://github.com/gongqingyi-github/flashtext)
 * [:star:NLP-lectures](https://github.com/gongqingyi-github/lectures)
 * [RCNN](https://github.com/gongqingyi-github/Recurrent-Convolutional-Neural-Network-Text-Classifier)
