@@ -79,6 +79,8 @@
 * [deepreinforcementlearning教程(java)](https://deeplearning4j.org/deepreinforcementlearning)
 
 ### NLP
+* [RCNN](https://github.com/gongqingyi-github/Recurrent-Convolutional-Neural-Network-Text-Classifier)
+* [2017-NLP模型相关代码-keras](https://github.com/gongqingyi-github/Repo-2017)
 * [2017年Attention Model汇总](https://zhuanlan.zhihu.com/p/29918534)
 * [NLP资源大全](https://github.com/gongqingyi-github/nlp_tasks)
 * [深度学习-自然语言处理资源列表](https://github.com/gongqingyi-github/awesome-dl4nlp)
