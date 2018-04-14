@@ -49,3 +49,4 @@
 * [Google编程规范-git](https://github.com/gongqingyi-github/zh-google-styleguide)
 * [docker](https://draveness.me/docker)
 * [web.archive.org](https://web.archive.org/web/20101212042242/http://argentumsolutions.com/tutorials/neural_tutorialpg8.html)
+* [alpha-zero中国象棋](https://github.com/chengstone/cchess-zero)
