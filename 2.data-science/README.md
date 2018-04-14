@@ -53,6 +53,7 @@
 * [Deep-Learning-with-Keras](https://github.com/gongqingyi-github/Deep-Learning-with-Keras)
 * [<<深度学习>>笔记](https://github.com/gongqingyi-github/simplified-deeplearning)
 * [:star::star::star:Keras分类模型大全](https://github.com/gongqingyi-github/Keras-Classification-Models)
+* [deepdive-NLP](http://deepdive.stanford.edu/)
 
 ### RL
 * [:star:DRL论文](https://github.com/gongqingyi-github/deep-reinforcement-learning-papers)
