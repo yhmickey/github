@@ -167,6 +167,7 @@
 * [:star:Deep-Learning-with-Keras](https://github.com/gongqingyi-github/Deep-Learning-with-Keras)
 
 ### 文章/总结
+* [paperweekly](http://rsarxiv.github.io/page/3/)
 * [:star::star::star:零基础深度学习](https://www.zybuluo.com/hanbingtao/note/433855)
 * [:star:深度学习 CNN 实现](http://deepnotes.io/implementing-cnn)
 * [深度学习指南](http://yerevann.com/a-guide-to-deep-learning/)
