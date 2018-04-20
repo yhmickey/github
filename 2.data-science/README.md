@@ -107,6 +107,7 @@
 * [:star:keras-text](https://github.com/gongqingyi-github/keras-text)
 * [:star:seq2seq-mini](https://github.com/gongqingyi-github/seq2seq-2)
 * [:star:Attention汇总](https://mp.weixin.qq.com/s/EMCZHuvk5dOV_Rz00GkJMA)
+* [多语言词向量集](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md)
 
 ### GAN
 * [GAN-Keras](https://github.com/gongqingyi-github/Keras-GAN)
