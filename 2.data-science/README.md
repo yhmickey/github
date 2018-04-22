@@ -255,6 +255,7 @@
 * [深度学习和增强学习slide](https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/slides)
 * [统计学习例子代码-基于 SKlearn](https://github.com/gongqingyi-github/statlearning-notebooks)
 * [台大-李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)
+* [AndrewNg-Notes](https://github.com/gongqingyi-github/Coursera-ML-AndrewNg-Notes)
 
 ### 书籍
 * [deeplearningbook-chinese](https://github.com/gongqingyi-github/deeplearningbook-chinese)
