@@ -108,6 +108,7 @@
 * [:star:seq2seq-mini](https://github.com/gongqingyi-github/seq2seq-2)
 * [:star:Attention汇总](https://mp.weixin.qq.com/s/EMCZHuvk5dOV_Rz00GkJMA)
 * [多语言词向量集](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md)
+* [上百种中文词向量](https://github.com/gongqingyi-github/Chinese-Word-Vectors)
 * [twitter情感分析-cnn-w2v](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-11-cnn-word2vec-41f5e28eda74)
 
 ### GAN
