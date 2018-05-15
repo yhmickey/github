@@ -20,7 +20,8 @@
 * [3b1b数学动画引擎](https://github.com/gongqingyi-github/manim)
 
 ## 书籍收藏
-* []()
+* [机器学习-数学](https://mml-book.github.io/)
+
 
 ## 其它资源
 * [数学编年史](http://www-history.mcs.st-andrews.ac.uk/Chronology/full.html)
