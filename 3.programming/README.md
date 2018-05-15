@@ -7,6 +7,7 @@
 * [常见算法汇总](http://www.imooc.com/article/11159)
 * [LeetCode-Python](https://github.com/gongqingyi-github/lc-all-solutions)
 * [algorithms](https://github.com/gongqingyi-github/algorithms)
+* [:star:特征工程实践](http://www.feat.engineering/index.html)
 
 
 ## Python
