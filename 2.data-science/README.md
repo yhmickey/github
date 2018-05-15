@@ -79,6 +79,9 @@
 * [增强学习资源](https://zhuanlan.zhihu.com/p/20885568)
 * [deepreinforcementlearning教程(java)](https://deeplearning4j.org/deepreinforcementlearning)
 
+### 计算视觉
+* [:star:awesome-object-detection](https://github.com/amusi/awesome-object-detection)
+
 ### NLP
 * [:star:text_classification模型大全](https://github.com/gongqingyi-github/text_classification)
 * [FlashText](https://github.com/gongqingyi-github/flashtext)
