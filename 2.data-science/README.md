@@ -291,3 +291,5 @@
 * [WTF](http://blog.topspeedsnail.com)
 * [shuokay](http://shuokay.com)
 * [:star:徐阿衡](http://www.shuang0420.com)
+* [TextClassification-keras](https://richliao.github.io/)
+* [TextClassification-git](https://github.com/richliao/textClassifier)
