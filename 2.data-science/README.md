@@ -84,6 +84,7 @@
 
 ### NLP
 * [:star:text_classification模型大全](https://github.com/gongqingyi-github/text_classification)
+* [Hierarchical-BiLSTM-CNN](https://github.com/scofield7419/Hierarchical-BiLSTM-CNN)
 * [FlashText](https://github.com/gongqingyi-github/flashtext)
 * [:star:NLP-lectures](https://github.com/gongqingyi-github/lectures)
 * [RCNN](https://github.com/gongqingyi-github/Recurrent-Convolutional-Neural-Network-Text-Classifier)
