@@ -52,3 +52,8 @@
 * [docker](https://draveness.me/docker)
 * [web.archive.org](https://web.archive.org/web/20101212042242/http://argentumsolutions.com/tutorials/neural_tutorialpg8.html)
 * [alpha-zero中国象棋](https://github.com/chengstone/cchess-zero)
+
+
+## 魔方
+* [Rubikscube](https://github.com/hkociemba/RubiksCube-TwophaseSolver)
+* [PyCuber](https://github.com/adrianliaw/PyCuber)
