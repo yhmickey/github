@@ -83,6 +83,7 @@
 * [量化策略-RL](https://zhuanlan.zhihu.com/p/24913014)
 * [基于IB-API + tensorflow 的RL框架](https://github.com/gongqingyi-github/deep_trader)
 * [stock_market_reinforcement_learning](https://github.com/gongqingyi-github/stock_market_reinforcement_learning)
+* [machine-learning-reinforcement-finance](https://www.coursera.org/specializations/machine-learning-reinforcement-finance)
 
 ## 示例/Demo
 * [Python金融数据分析](https://github.com/gongqingyi-github/dx)
