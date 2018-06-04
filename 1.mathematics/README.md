@@ -3,6 +3,7 @@
 
 ## 代数学
 * [solutions-to-linear-algebras-done-right](http://linearalgebras.com/)
+* [线代启示录](https://ccjou.wordpress.com/)
 
 ## 拓扑学
 * [拓扑学答案](https://dbfin.com/topology/munkres/)
