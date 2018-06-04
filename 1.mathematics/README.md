@@ -10,6 +10,7 @@
 * [squares](http://www.webpages.uidaho.edu/~markn/squares/)
 * [Dim_tour](http://www.dimensions-math.org/Dim_tour_ZH_si.htm)
 * [some example](https://zhuanlan.zhihu.com/p/29695970)
+* [R^n拓扑](https://zhuanlan.zhihu.com/p/32475774)
 
 ## 概率论
 * [Probability Cookbook](https://github.com/gongqingyi-github/stat-cookbook)
