@@ -9,6 +9,7 @@
 * [拓扑学答案](https://dbfin.com/topology/munkres/)
 * [squares](http://www.webpages.uidaho.edu/~markn/squares/)
 * [Dim_tour](http://www.dimensions-math.org/Dim_tour_ZH_si.htm)
+* [some example](https://zhuanlan.zhihu.com/p/29695970)
 
 ## 概率论
 * [Probability Cookbook](https://github.com/gongqingyi-github/stat-cookbook)
