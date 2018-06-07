@@ -5,6 +5,9 @@
 * [solutions-to-linear-algebras-done-right](http://linearalgebras.com/)
 * [线代启示录](https://ccjou.wordpress.com/)
 
+## 李群
+* [李群-李代数-纤维从-规范场论](http://mooc.chaoxing.com/course/88326.html)
+
 ## 拓扑学
 * [拓扑学答案](https://dbfin.com/topology/munkres/)
 * [squares](http://www.webpages.uidaho.edu/~markn/squares/)
