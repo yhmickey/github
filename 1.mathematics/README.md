@@ -16,6 +16,7 @@
 * [R^n拓扑](https://zhuanlan.zhihu.com/p/32475774)
 * [topology](http://www.solitaryroad.com/top.html)
 * [拓扑空间的紧性](http://blog.pluskid.org/?p=785)
+* [欧拉公式20种证明](https://www.ics.uci.edu/~eppstein/junkyard/euler/)
 
 ## 概率论
 * [Probability Cookbook](https://github.com/gongqingyi-github/stat-cookbook)
