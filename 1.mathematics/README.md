@@ -8,6 +8,9 @@
 ## 李群
 * [李群-李代数-纤维从-规范场论](http://mooc.chaoxing.com/course/88326.html)
 
+## 几何
+* [黎曼几何](https://www.marcoradeschi.com/math60670/)
+
 ## 拓扑学
 * [拓扑学答案](https://dbfin.com/topology/munkres/)
 * [squares](http://www.webpages.uidaho.edu/~markn/squares/)
