@@ -24,6 +24,7 @@
 * [AI-Trading](https://github.com/gongqingyi-github/zenbot)
 * [算法交易平台$#](https://github.com/gongqingyi-github/StockSharp)
 * [强化学习交易-模拟环境](https://github.com/gongqingyi-github/Trading-Gym)
+* [DevilYuan股票量化系统](https://github.com/moyuanz/DevilYuan)
 
 * [果仁网](https://guorn.com)
 * [RaQuant](http://raquant.com)
