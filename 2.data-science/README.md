@@ -114,6 +114,7 @@
 * [多语言词向量集](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md)
 * [上百种中文词向量](https://github.com/gongqingyi-github/Chinese-Word-Vectors)
 * [twitter情感分析-cnn-w2v](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-11-cnn-word2vec-41f5e28eda74)
+* [pytorch-sentiment-analysis](https://github.com/bentrevett/pytorch-sentiment-analysis)
 
 ### GAN
 * [GAN-Keras](https://github.com/gongqingyi-github/Keras-GAN)
