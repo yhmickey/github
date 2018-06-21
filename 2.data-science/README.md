@@ -115,6 +115,7 @@
 * [上百种中文词向量](https://github.com/gongqingyi-github/Chinese-Word-Vectors)
 * [twitter情感分析-cnn-w2v](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-11-cnn-word2vec-41f5e28eda74)
 * [pytorch-sentiment-analysis](https://github.com/bentrevett/pytorch-sentiment-analysis)
+* [NLP十大问题-问答，机器翻译，摘要，自然语言推理，情感分析，词性标注，关系抽取，目标导向对话，数据库查询生成和代词解析](https://github.com/salesforce/decaNLP)
 
 ### GAN
 * [GAN-Keras](https://github.com/gongqingyi-github/Keras-GAN)
