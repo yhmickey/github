@@ -78,6 +78,7 @@
 * [:star:增强学习导论-Jupyter代码](https://github.com/gongqingyi-github/intro-to-rl)
 * [增强学习资源](https://zhuanlan.zhihu.com/p/20885568)
 * [deepreinforcementlearning教程(java)](https://deeplearning4j.org/deepreinforcementlearning)
+* [DRL随书代码](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python)
 
 ### 计算视觉
 * [:star:awesome-object-detection](https://github.com/amusi/awesome-object-detection)
