@@ -118,6 +118,8 @@
 * [pytorch-sentiment-analysis](https://github.com/bentrevett/pytorch-sentiment-analysis)
 * [decaNLP十大问题-问答，机器翻译，摘要，自然语言推理，情感分析，词性标注，关系抽取，目标导向对话，数据库查询生成和代词解析](https://github.com/salesforce/decaNLP)
 * [decathlon-简介](https://einstein.ai/research/the-natural-language-decathlon)
+* [CapsNet-Keras](https://github.com/gongqingyi-github/CapsNet-Keras)
+
 
 ### GAN
 * [GAN-Keras](https://github.com/gongqingyi-github/Keras-GAN)
