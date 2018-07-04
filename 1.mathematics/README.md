@@ -49,6 +49,7 @@
 * [MathBlog: 数学书列表](https://mathblog.com/mathematics-books/)
 * [矩阵微分](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html)
 * [书籍下载](http://www.scilib.org)
+* [特征方程-数列](http://artofproblemsolving.com/wiki/index.php/Characteristic_polynomial#Linear_recurrences)
 
 ## Wiki
 * [packing_of_equal_spheres](https://en.wikipedia.org/wiki/Close-packing_of_equal_spheres)
