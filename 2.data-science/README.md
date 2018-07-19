@@ -120,6 +120,7 @@
 * [decathlon-简介](https://einstein.ai/research/the-natural-language-decathlon)
 * [CapsNet-Keras](https://github.com/gongqingyi-github/CapsNet-Keras)
 * [Capsule-pure-Keras](https://github.com/gongqingyi-github/Capsule)
+* [:star:NLP-Papers](https://github.com/gongqingyi-github/Deep-Learning-NLP)
 
 
 ### GAN
